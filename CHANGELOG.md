@@ -1,3 +1,15 @@
+- kuopsquay/calico.htmlproofer:v0.0
+- kuopsquay/calico.htmlproofer:v0.1
+- kuopsquay/calico.htmlproofer:v0.2
+- kuopsquay/calico.gobgpd:v0.1.2
+- kuopsquay/calico.gobgpd:v0.2.1
+- kuopsquay/calico.gobgpd:latest
+- kuopsquay/calico.gobgpd:v0.2.2-26-g6186372-amd64
+- kuopsquay/calico.gobgpd:v0.2.2-26-g6186372
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.gobgpd:master-amd64
+- kuopsquay/calico.gobgpd:master-amd64
 - kuopsquay/calico.go-build:v0.6
 - kuopsquay/calico.go-build:v0.5
 - kuopsquay/calico.go-build:v0.2
