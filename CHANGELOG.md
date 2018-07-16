@@ -1,3 +1,13 @@
+- kuopsquay/calico.upgrade:v1.0.1-2-g7425ff6
+- kuopsquay/calico.upgrade:v1.0.1-6-g17740c3
+- kuopsquay/calico.upgrade:v1.0.2-2-gb2f6bdd
+- kuopsquay/calico.upgrade:v1.0.2-7-g319001e
+- kuopsquay/calico.upgrade:v1.0.4-2-g3eefd49
+- kuopsquay/calico.upgrade:v1.0.5-2-g7c7d069
+- kuopsquay/calico.upgrade:v1.0.5
+- kuopsquay/calico.upgrade:latest
+- kuopsquay/calico.upgrade:v1.0.5-4-g2370474
+- kuopsquay/calico.upgrade:master
 - kuopsquay/calico.typha:v0.7.2-56-g642d485-amd64
 - kuopsquay/calico.typha:v0.7.2-56-g642d485
 - kuopsquay/calico.typha:master-amd64
