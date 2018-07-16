@@ -1,3 +1,16 @@
+- kuopsquay/coreos.tectonic-console-builder:v11
+- kuopsquay/coreos.tectonic-console-builder:v8
+- kuopsquay/coreos.tectonic-console-builder:v9
+- kuopsquay/coreos.tectonic-console-builder:v7
+- kuopsquay/coreos.tectonic-console-builder:v3
+- kuopsquay/coreos.tectonic-console-builder:v6
+- kuopsquay/coreos.tectonic-console-builder:v5
+- kuopsquay/coreos.hyperkube:v1.10.4_coreos.0
+- kuopsquay/coreos.hyperkube:v1.9.8_coreos.0
+- kuopsquay/coreos.hyperkube:v1.10.5_coreos.0
+- kuopsquay/coreos.hyperkube:v1.10.3_coreos.0
+- kuopsquay/coreos.tectonic-console-builder:v16
+- kuopsquay/coreos.hyperkube:v1.8.14_coreos.0
 - kuopsquay/coreos.aws-auth-proxy:master
 - kuopsquay/coreos.aws-auth-proxy:latest
 - kuopsquay/coreos.kubernetes-fluentd:latest
