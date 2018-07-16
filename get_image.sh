@@ -71,7 +71,7 @@ push_image(){
     docker pull ${QUAY_IMAGE}
     docker tag ${QUAY_IMAGE} ${DOCKERHUB_IMAGE}
     docker push ${DOCKERHUB_IMAGE}
-    echo "$IMAGE_TAG_SHA" > ${IMAGE_NAME}/${i}
+    echo "$IMAGE_TAG_SHA" > $IMAGE_NS/$IMAGE_NAME/${i}
     sed -i  "1i\- ${DOCKERHUB_IMAGE}"  CHANGELOG.md
 }
 
@@ -137,7 +137,7 @@ main() {
                      let PROGRESS_COUNT++
                 fi
             else
-                mkdir -p $IMAGE_NAME
+                mkdir -p $IMAGE_NS/$IMAGE_NAME
                 clean_disk
                 push_image $QUAY_IMAGE $DOCKERHUB_IMAGE &
                 let PROGRESS_COUNT++
