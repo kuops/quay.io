@@ -101,7 +101,7 @@ main() {
     LAST_REPOSITORY=$(tail -n 1 repo_list.txt)
     while read QUAY_IMAGE_NAME;do
         let LINE_NUM++
-        IMAGE_NS=${QUAY_IMAGE_NAME#*/}
+        IMAGE_NS=${QUAY_IMAGE_NAME%/*}
         IMAGE_NAME=${QUAY_IMAGE_NAME##*/}
         IMAGE_INFO_JSON=$(curl -sL "https://quay.io/api/v1/repository/${IMAGE_NS}/${IMAGE_NAME}/tag/"|jq '.tags[]')
         TAG_INFO_JSON=$(echo "$IMAGE_INFO_JSON"|jq '{ tag: .name ,digest: .manifest_digest }')
