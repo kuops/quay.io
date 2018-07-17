@@ -1,3 +1,4 @@
+- kuopsquay/coreos.tectonic-builder:v1.18
 - kuopsquay/coreos.tectonic-builder:v1.35
 - kuopsquay/coreos.tectonic-builder:v1.36-upstream-terraform
 - kuopsquay/coreos.tectonic-builder:v1.36
