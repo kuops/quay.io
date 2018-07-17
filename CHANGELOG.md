@@ -1,3 +1,9 @@
+- kuopsquay/coreos.oauth2_proxy:coreos-master
+- kuopsquay/coreos.oauth2_proxy:master
+- kuopsquay/coreos.oauth2_proxy:latest
+- kuopsquay/coreos.nginx-https-redirect:master
+- kuopsquay/coreos.bootcfg:4a72802a32ce2ddd210cc6fa85be231033ebecd1
+- kuopsquay/coreos.bootcfg:latest
 - kuopsquay/coreos.clair:v1.1.0
 - kuopsquay/coreos.clair:v1.2.0
 - kuopsquay/coreos.clair:v1.0.0
