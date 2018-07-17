@@ -1,3 +1,6 @@
+- kuopsquay/coreos.clair-git:master
+- kuopsquay/coreos.torus:master
+- kuopsquay/coreos.clair-jwt:v1.2.5
 - kuopsquay/coreos.clair-jwt:v1.2.6
 - kuopsquay/coreos.clair-jwt:v2.0.0-pre.2
 - kuopsquay/coreos.clair-jwt:v2.0.0-pre.4
