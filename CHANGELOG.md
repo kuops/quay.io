@@ -1,3 +1,12 @@
+- kuopsquay/coreos.bootkube:v0.5.0
+- kuopsquay/coreos.bootkube:v0.6.0
+- kuopsquay/coreos.bootkube:v0.6.2
+- kuopsquay/coreos.bootkube:v0.9.0
+- kuopsquay/coreos.bootkube:v0.9.2
+- kuopsquay/coreos.bootkube:v0.10.0
+- kuopsquay/coreos.bootkube:v0.11.0
+- kuopsquay/coreos.bootkube:v0.12.0
+- kuopsquay/coreos.clair-git:latest
 - kuopsquay/coreos.clair-git:master
 - kuopsquay/coreos.torus:master
 - kuopsquay/coreos.clair-jwt:v1.2.5
