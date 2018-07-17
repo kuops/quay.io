@@ -1,3 +1,9 @@
+- kuopsquay/coreos.tectonic-builder:v1.13
+- kuopsquay/coreos.tectonic-builder:v1.23
+- kuopsquay/coreos.tectonic-builder:v1.17
+- kuopsquay/coreos.tectonic-builder:v1.18
+- kuopsquay/coreos.tectonic-builder:v1.26
+- kuopsquay/coreos.tectonic-builder:v1.12
 - kuopsquay/coreos.tectonic-builder:v1.31
 - kuopsquay/coreos.tectonic-builder:v1.29
 - kuopsquay/coreos.tectonic-builder:v1.30
