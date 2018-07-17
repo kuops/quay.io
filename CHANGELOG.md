@@ -1,3 +1,6 @@
+- kuopsquay/coreos.hyperkube:v1.6.11_coreos.0
+- kuopsquay/coreos.hyperkube:v1.8.3_coreos.0
+- kuopsquay/coreos.hyperkube:v1.8.4_coreos.0
 - kuopsquay/coreos.hyperkube:v1.6.13_coreos.0
 - kuopsquay/coreos.hyperkube:v1.7.11_coreos.0
 - kuopsquay/coreos.hyperkube:v1.7.12_coreos.0
