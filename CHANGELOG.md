@@ -1,3 +1,16 @@
+- kuopsquay/coreos.etcd-git:set-watch-consistency-to-strong
+- kuopsquay/coreos.etcd-git:add-import-export-commands
+- kuopsquay/coreos.etcd-git:test
+- kuopsquay/coreos.etcd-git:229
+- kuopsquay/coreos.etcd-git:latest
+- kuopsquay/coreos.etcd-git:master
+- kuopsquay/coreos.etcd:v3.3.3-ppc64le
+- kuopsquay/coreos.etcd:v3.3.3-arm64
+- kuopsquay/coreos.etcd:v3.2.18-arm64
+- kuopsquay/coreos.etcd:v3.3.3
+- kuopsquay/coreos.etcd:v3.2.18-ppc64le
+- kuopsquay/coreos.etcd:v3.1.13
+- kuopsquay/coreos.etcd:v3.2.18
 - kuopsquay/coreos.etcd:v3.3.4-ppc64le
 - kuopsquay/coreos.etcd:3.2
 - kuopsquay/coreos.etcd:v3.3.4-arm64
