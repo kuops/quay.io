@@ -1,3 +1,11 @@
+- kuopsquay/coreos.pod-checkpointer:a936ee1149af95c7696a261e739b050ff00c6288
+- kuopsquay/coreos.pod-checkpointer:7da334a1d768c346798601eb8387f266d15cf330
+- kuopsquay/coreos.pod-checkpointer:4e7a7dab10bc4d895b66c21656291c6e0b017248
+- kuopsquay/coreos.pod-checkpointer:abdcbc46df985b832cccf805b34f4652a0ca9d56
+- kuopsquay/coreos.pod-checkpointer:ec22bec63334befacc2b237ab73b1a8b95b0a654
+- kuopsquay/coreos.pod-checkpointer:69f99ef5e574cb82e97a1ace7d39a514e6553126
+- kuopsquay/coreos.pod-checkpointer:08fa021813231323e121ecca7383cc64c4afe888
+- kuopsquay/coreos.caddy-docker:master
 - kuopsquay/coreos.tectonic-builder:v1.8
 - kuopsquay/coreos.tectonic-builder:v1.10
 - kuopsquay/coreos.tectonic-builder:v1.12
