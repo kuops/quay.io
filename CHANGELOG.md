@@ -1,3 +1,14 @@
+- kuopsquay/coreos.oauth2_proxy:pass_user_as_email_header2
+- kuopsquay/coreos.clair:v1.0.0-rc1
+- kuopsquay/coreos.clair:v1.2.5
+- kuopsquay/coreos.rclone:master
+- kuopsquay/coreos.rclone:latest
+- kuopsquay/coreos.clair:v2.0.0-pre.1
+- kuopsquay/coreos.clair:v2.0.0-pre.0
+- kuopsquay/coreos.clair:v1.2.4
+- kuopsquay/coreos.nginx-https-redirect:latest
+- kuopsquay/coreos.clair:v1.2.6
+- kuopsquay/coreos.clair:v2.0.0-pre.2
 - kuopsquay/coreos.clair:v2.0.0-rc.0
 - kuopsquay/coreos.clair:v2.0.0-pre.4
 - kuopsquay/coreos.clair:v2.0.0-pre.3
