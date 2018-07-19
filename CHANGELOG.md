@@ -1,3 +1,17 @@
+- kuopsquay/calico.cni:v2.0.6-2-g359658f
+- kuopsquay/calico.cni:installcni-kpmods-amd64
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:release-v3.1-amd64
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:v2.0.0-98-gff6489f
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:v2.0.0-98-gff6489f-amd64
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:master
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:v2.0.0-98-gff6489f-amd64
 - kuopsquay/calico.cni:v2.0.0-98-gff6489f
 - kuopsquay/calico.cni:v2.0.0-98-gff6489f-amd64
 - kuopsquay/calico.cni:master
