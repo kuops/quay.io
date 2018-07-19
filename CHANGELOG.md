@@ -1,3 +1,16 @@
+- kuopsquay/coreos.bootkube:v0.9.1
+- kuopsquay/coreos.bootkube:v0.10.0
+- kuopsquay/coreos.bootkube:v0.11.0
+- kuopsquay/coreos.bootkube:v0.9.2
+- kuopsquay/coreos.bootkube:v0.9.3
+- kuopsquay/coreos.bootkube:v0.11.1
+- kuopsquay/coreos.bootkube:v0.12.0
+- kuopsquay/coreos.bootkube:v0.13.0
+- kuopsquay/coreos.clair-git:latest
+- kuopsquay/coreos.clair-git:master
+- kuopsquay/coreos.clair-git:master
+- kuopsquay/coreos.clair-git:latest
+- kuopsquay/coreos.clair-git:latest
 - kuopsquay/coreos.bootkube:v0.7.0
 - kuopsquay/coreos.bootkube:v0.8.1
 - kuopsquay/coreos.bootkube:v0.9.0
