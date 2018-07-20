@@ -1,3 +1,12 @@
+- kuopsquay/coreos.fluentd-kubernetes:v0.12.39-debian-elasticsearch
+- kuopsquay/coreos.fluentd-kubernetes:v0.12-debian-elasticsearch
+- kuopsquay/coreos.fluentd-kubernetes:debian-elasticsearch
+- kuopsquay/coreos.fluentd-kubernetes:v0.12.39-debian-loggly
+- kuopsquay/coreos.fluentd-kubernetes:v0.12-debian-cloudwatch
+- kuopsquay/coreos.fluentd-kubernetes:stable-s3
+- kuopsquay/coreos.fluentd-kubernetes:v0.12-s3
+- kuopsquay/coreos.fluentd-kubernetes:v0.12.39-cloudwatch
+- kuopsquay/coreos.fluentd-kubernetes:s3
 - kuopsquay/coreos.tectonic-terraform:master
 - kuopsquay/coreos.tectonic-terraform:latest
 - kuopsquay/coreos.jnlp-slave:latest
