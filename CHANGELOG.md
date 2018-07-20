@@ -1,3 +1,17 @@
+- kuopsquay/coreos.clair:v2.0.0-pre.3
+- kuopsquay/coreos.clair:v2.0.0-pre.1
+- kuopsquay/coreos.clair:v2.0.0-pre.0
+- kuopsquay/coreos.clair:v1.2.6
+- kuopsquay/coreos.clair:v2.0.0-rc.0
+- kuopsquay/coreos.clair:v2.0.0-pre.4
+- kuopsquay/coreos.clair:v2.0.0-rc.1
+- kuopsquay/coreos.clair:v2.0.0
+- kuopsquay/coreos.clair:v2.0.1
+- kuopsquay/coreos.dex-builder:1.4
+- kuopsquay/coreos.clair:v2.0.2
+- kuopsquay/coreos.clair:latest
+- kuopsquay/coreos.clair:v2.0.3
+- kuopsquay/coreos.clair:v2.0.4
 - kuopsquay/coreos.dex-builder:1.6
 - kuopsquay/coreos.dex:0e94e7625551a0e2c455de6d2568489e02e00f98
 - kuopsquay/coreos.dex:5dec7194d21a4126418acdedebf679b692a590e9
