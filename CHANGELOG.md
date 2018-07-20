@@ -1,3 +1,17 @@
+- kuopsquay/coreos.prometheus-config-reloader:v0.0.2
+- kuopsquay/coreos.prometheus-config-reloader:v0.0.1
+- kuopsquay/coreos.ct:v0.8.0-11-g5b24575
+- kuopsquay/coreos.ct:latest-dev
+- kuopsquay/coreos.ct:latest-dev
+- kuopsquay/coreos.ct:v0.8.0-13-ge3d6149
+- kuopsquay/coreos.ct:v0.8.0-13-ge3d6149
+- kuopsquay/coreos.prometheus-config-reloader:v0.0.3
+- kuopsquay/coreos.prometheus-config-reloader:v0.0.4
+- kuopsquay/coreos.prometheus-config-reloader:v0.21.0
+- kuopsquay/coreos.prometheus-config-reloader:v0.20.0
+- kuopsquay/coreos.prometheus-config-reloader:master
+- kuopsquay/coreos.prometheus-config-reloader:master
+- kuopsquay/coreos.prometheus-config-reloader:master
 - kuopsquay/coreos.example-app:v2.0
 - kuopsquay/coreos.example-app:v1.0
 - kuopsquay/coreos.kapprover:v0.0.1
