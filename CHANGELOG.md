@@ -1,3 +1,16 @@
+- kuopsquay/coreos.chargeback:pr-318-1
+- kuopsquay/coreos.chargeback:5e25b86fa2621568b9393eebba193444dbea6343
+- kuopsquay/coreos.chargeback:pr-317-5
+- kuopsquay/coreos.chargeback:e580c04ae8e12b4c34cd57b99caa7678311dbcfa
+- kuopsquay/coreos.chargeback:pr-319-1
+- kuopsquay/coreos.chargeback:a649f08fd4090281fae76ec4cd6fdbc533a81290
+- kuopsquay/coreos.chargeback:master-46
+- kuopsquay/coreos.chargeback:65d85bfaa31b915a4d2b8e6d3a48126e860d7e1d
+- kuopsquay/coreos.chargeback:pr-319
+- kuopsquay/coreos.chargeback:latest
+- kuopsquay/coreos.chargeback:latest
+- kuopsquay/coreos.chargeback:master
+- kuopsquay/coreos.chargeback:0.6.1-latest
 - kuopsquay/coreos.chargeback:c660aa8fdd2051c2c17f006ef9441097c389cb80
 - kuopsquay/coreos.chargeback:pr-319-2
 - kuopsquay/coreos.chargeback:pr-319
