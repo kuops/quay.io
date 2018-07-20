@@ -1,3 +1,6 @@
+- kuopsquay/coreos.updateservicectl:latest
+- kuopsquay/coreos.hyperkube-dev:v1.7.2_patchset.0
+- kuopsquay/coreos.hyperkube-dev:v1.7.1_newbaseimage.0
 - kuopsquay/coreos.hyperkube-dev:v1.6.9_patchset.0
 - kuopsquay/coreos.hyperkube-dev:v1.6.8_patchset.0
 - kuopsquay/coreos.hyperkube-dev:v1.8.0-beta.0_patchset.0
