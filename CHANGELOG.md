@@ -1,3 +1,16 @@
+- kuopsquay/coreos.tectonic-grafana:d27a29fdb9d33b524e2f5945924170fedf837d0f
+- kuopsquay/coreos.tectonic-grafana:ff8ce4b37aaef3fe68f29472a61d6403e6602382
+- kuopsquay/coreos.tectonic-grafana:4f5ce66db483aef60e36e9e33f6713dc08d71664
+- kuopsquay/coreos.tectonic-grafana:04a35e3fa084b343cf9cdffd76efbe47b276e67c
+- kuopsquay/coreos.tectonic-grafana:ecd5cf4eecf00097e5ebe91c30bd912e534293c3
+- kuopsquay/coreos.tectonic-grafana:f15cbd678de0dac42066e523c2ec50d909d4e425
+- kuopsquay/coreos.tectonic-postgres:31f11d9c890d17391629700f99f6e27835975466
+- kuopsquay/coreos.tectonic-postgres:74a4919b3c9e9670d498d82547289a67bf651e3a
+- kuopsquay/coreos.tectonic-postgres:45d7d7198e2c35152a646347649d007edeb06948
+- kuopsquay/coreos.tectonic-postgres:17d4c8e84ac15830d8c044d1fbe32c2587dcc52d
+- kuopsquay/coreos.tectonic-postgres:46898acbc03281f7ed5f62b354d3fee40e373f98
+- kuopsquay/coreos.tectonic-postgres:bdb877a9b2b8588c39bf4001e81e1003afcc85ee
+- kuopsquay/coreos.tectonic-postgres:2f52204290695996f2a04eed2feede43d7159d3f
 - kuopsquay/coreos.tectonic-postgres:9fe9320063f6c1f82d74d599678ed8910b508f93
 - kuopsquay/coreos.tectonic-postgres:89ad9d467b39e5bac812210b0c817cbed72e0481
 - kuopsquay/coreos.tectonic-postgres:8d6d4a98b6f51cfb7d16854c8dd2726e44f5c5f3
