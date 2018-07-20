@@ -1,3 +1,5 @@
+- kuopsquay/coreos.tectonic-console-builder:v14
+- kuopsquay/coreos.tectonic-console-builder:v2
 - kuopsquay/coreos.kubernetes-fluentd:master
 - kuopsquay/coreos.kubernetes-fluentd:latest
 - kuopsquay/coreos.aws-auth-proxy:latest
