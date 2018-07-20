@@ -1,3 +1,10 @@
+- kuopsquay/coreos.hyperkube-git:master-ed8ec7c382458cd1d6eb3fa5db9d2dbe6e2c3ca8
+- kuopsquay/coreos.hyperkube-git:release-1.7-347f652944cc2348d59b1c815007e21e062fe597
+- kuopsquay/coreos.bootkube-git:c718cefef53a041a7fb3257f0c3703b8af166e78
+- kuopsquay/coreos.bootkube-git:09e17a141ca78b19bb1bb5d397f3dc8f98d57665
+- kuopsquay/coreos.bootkube-git:8970f84e9e9388e31b4cc7aac98d1e71d320b238
+- kuopsquay/coreos.bootkube-git:f914c221af8795699450bf0c0ff5f1753be9a7e6
+- kuopsquay/coreos.bootkube-git:2de93149749b07baa314cba9e3f5d8282d811725
 - kuopsquay/coreos.bootkube-git:3acc2fca0b660daf454e85f0e7ed22def705b750
 - kuopsquay/coreos.bootkube-git:cbce4ffa918dd9af9adf7c7ac8d5b399a6e43b24
 - kuopsquay/coreos.bootkube-git:3fd1fd850ec3189df3445ee1913cf03426a65631
