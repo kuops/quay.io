@@ -1,3 +1,14 @@
+- kuopsquay/coreos.prometheus-operator:v0.18.1
+- kuopsquay/coreos.prometheus-operator:latest
+- kuopsquay/coreos.prometheus-operator:v0.19.0
+- kuopsquay/coreos.prometheus-operator:master
+- kuopsquay/coreos.prometheus-operator:master
+- kuopsquay/coreos.prometheus-operator:master
+- kuopsquay/coreos.prometheus-operator:master
+- kuopsquay/coreos.prometheus-operator:master
+- kuopsquay/coreos.prometheus-operator:master
+- kuopsquay/coreos.prometheus-operator:v0.22.0
+- kuopsquay/coreos.prometheus-operator:v0.22.1
 - kuopsquay/coreos.prometheus-operator:v0.8.2
 - kuopsquay/coreos.prometheus-operator:v0.8.1
 - kuopsquay/coreos.prometheus-operator:v0.9.0
