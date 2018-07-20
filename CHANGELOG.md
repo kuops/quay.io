@@ -1,3 +1,17 @@
+- kuopsquay/coreos.atlassian-jira-software:7.4.1
+- kuopsquay/coreos.atlassian-jira-software:7.4.2
+- kuopsquay/coreos.atlassian-jira-software:7.5.0
+- kuopsquay/coreos.atlassian-jira-software:latest
+- kuopsquay/coreos.vault-operator:0.1.5
+- kuopsquay/coreos.vault-operator:0.1.7
+- kuopsquay/coreos.vault-operator:0.1.8
+- kuopsquay/coreos.vault-operator:0.1.6
+- kuopsquay/coreos.chargeback:f7318cf3b05e96b3903b67fcd763184620aca94f
+- kuopsquay/coreos.chargeback:master-44
+- kuopsquay/coreos.prometheus-alertmanager-test-webhook:latest
+- kuopsquay/coreos.chargeback:5b7d9b007d7c91038a1755c9b32b7a34be4e3f16
+- kuopsquay/coreos.chargeback:0.6.1-latest
+- kuopsquay/coreos.chargeback:latest
 - kuopsquay/coreos.chargeback:pr-318-1
 - kuopsquay/coreos.chargeback:5e25b86fa2621568b9393eebba193444dbea6343
 - kuopsquay/coreos.chargeback:pr-317-5
