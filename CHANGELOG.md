@@ -1,3 +1,13 @@
+- kuopsquay/coreos.updateservicectl:latest
+- kuopsquay/coreos.updateservicectl:master
+- kuopsquay/coreos.etcd-operator:dev
+- kuopsquay/coreos.etcd-operator:dev
+- kuopsquay/coreos.grafana-watcher:v0.0.1
+- kuopsquay/coreos.grafana-watcher:v0.0.3
+- kuopsquay/coreos.grafana-watcher:v0.0.2
+- kuopsquay/coreos.grafana-watcher:latest
+- kuopsquay/coreos.grafana-watcher:v0.0.6
+- kuopsquay/coreos.grafana-watcher:v0.0.7
 - kuopsquay/coreos.hyperkube-dev:v1.6.2_setcap.0
 - kuopsquay/coreos.hyperkube-dev:v1.7.1_patchset.0
 - kuopsquay/coreos.hyperkube-dev:v1.7.1_patchset.1
