@@ -1,3 +1,9 @@
+- kuopsquay/coreos.hyperkube-dev:v1.6.2_setcap.0
+- kuopsquay/coreos.hyperkube-dev:v1.7.1_patchset.0
+- kuopsquay/coreos.hyperkube-dev:v1.7.1_patchset.1
+- kuopsquay/coreos.hyperkube-dev:v1.7.2_patchset.0
+- kuopsquay/coreos.grafana-watcher:v0.0.8
+- kuopsquay/coreos.hyperkube-dev:v1.7.1_newbaseimage.0
 - kuopsquay/coreos.hyperkube-dev:v1.6.11_patchset.0
 - kuopsquay/coreos.hyperkube-dev:v1.6.9_patchset.0
 - kuopsquay/coreos.hyperkube-dev:v1.6.10_patchset.0
