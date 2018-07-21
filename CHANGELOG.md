@@ -1,3 +1,15 @@
+- kuopsquay/coreos.tectonic-grafana:5fdbebe2ad5c52a49759cb12bfdd4ddd0292a723
+- kuopsquay/coreos.tectonic-grafana:8d6d4a98b6f51cfb7d16854c8dd2726e44f5c5f3
+- kuopsquay/coreos.tectonic-grafana:9b76460b6a6b415773c03adf5d872ad9d1410bfc
+- kuopsquay/coreos.tectonic-grafana:8f8ad115402af4a4317540c130ffdea530660355
+- kuopsquay/coreos.tectonic-grafana:6b17b97b0325f6c9e0796a658cdc6a98a8a0f5a1
+- kuopsquay/coreos.tectonic-grafana:7b920ca8ccf4bfbc631a0034f953395c3d5d3344
+- kuopsquay/coreos.tectonic-grafana:v1.3.7
+- kuopsquay/coreos.tectonic-grafana:bebbc43812b420832def8fa3810f283b1afd562c
+- kuopsquay/coreos.tectonic-grafana:cec1482e807f3aa611a5f95c601b22325d9ca92d
+- kuopsquay/coreos.tectonic-grafana:830fa2d7a304512a385cfb83c083d82a3eba6111
+- kuopsquay/coreos.tectonic-grafana:e398ebade441e36c037c1662602801383de13c5a
+- kuopsquay/coreos.tectonic-grafana:112cc00cfd03dc33803c23b38aa27ac27c31460e
 - kuopsquay/coreos.tectonic-grafana:84ed8929106e9513397c6fdf42d98347f08a3ae7
 - kuopsquay/coreos.tectonic-grafana:504a12da054c57f57e1ae6166a174aedc48af01d
 - kuopsquay/coreos.tectonic-grafana:3e1e452b7809bdc76cf5971f93991c46ebe9bddf
