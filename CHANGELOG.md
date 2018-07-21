@@ -1,3 +1,17 @@
+- kuopsquay/calico.k8s-policy-agent:v0.1.0-rebuild
+- kuopsquay/calico.kube-controllers:v3.1.3-6-gbda9fbf
+- kuopsquay/calico.kube-controllers:v2.0.0-78-gd4e9cfa
+- kuopsquay/calico.kube-controllers:master
+- kuopsquay/calico.k8s-policy-agent:v0.1.1-rebuild
+- kuopsquay/calico.k8s-policy-agent:v0.1.2
+- kuopsquay/calico.k8s-policy-agent:v0.1.0
+- kuopsquay/calico.k8s-policy-agent:release-v0.1.0
+- kuopsquay/calico.k8s-policy-agent:v0.1.1
+- kuopsquay/calico.k8s-policy-agent:hosts-fix
+- kuopsquay/calico.k8s-policy-agent:v0.1.3
+- kuopsquay/calico.k8s-policy-agent:v0.1.4-candidate
+- kuopsquay/calico.k8s-policy-agent:v1beta-api
+- kuopsquay/calico.k8s-policy-agent:v0.1.4
 - kuopsquay/calico.kube-controllers:v2.0.5-10-geb76720
 - kuopsquay/calico.kube-controllers:v2.0.0-78-gd4e9cfa-amd64
 - kuopsquay/calico.kube-controllers:master-amd64
