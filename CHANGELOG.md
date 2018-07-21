@@ -1,3 +1,13 @@
+- kuopsquay/coreos.bootcfg:74e5e884ec68f7f46e7f966d6715b541a0e5f2df
+- kuopsquay/coreos.bootcfg:v0.4.1
+- kuopsquay/coreos.bootcfg:8005c51d566da480e858c06cce5a70fa3f967e4d
+- kuopsquay/coreos.bootcfg:3e2593c673c864272ae0e4e0de6b0b610ae6ab2c
+- kuopsquay/coreos.bootcfg:d48b8e884f1d5855ee54105a90e677159a608216
+- kuopsquay/coreos.bootcfg:0e495c57206419245651f8eb62ffbfeaffca185a
+- kuopsquay/coreos.bootcfg:1e367634f30ba1b35113e144262801b66051a48a
+- kuopsquay/coreos.bootcfg:112c2949fac6fb157977db21c2d0d3c1beafcecc
+- kuopsquay/coreos.bootcfg:e1334730ce735a04b65254edfd160bb1ca8248d3
+- kuopsquay/coreos.bootcfg:4a72802a32ce2ddd210cc6fa85be231033ebecd1
 - kuopsquay/coreos.oauth2_proxy:dep
 - kuopsquay/coreos.clair:v1.2.0
 - kuopsquay/coreos.clair:v1.2.2
