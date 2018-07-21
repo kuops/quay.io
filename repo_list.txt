@@ -179,6 +179,7 @@ coreos/tflint
 coreos/tectonic-ci-aio
 coreos/shellcheck-alpine
 coreos/jira-operator
+coreos/basic-auth-test-app
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
