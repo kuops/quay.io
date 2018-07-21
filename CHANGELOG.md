@@ -1,3 +1,4 @@
+- kuopsquay/coreos.oauth2_proxy:dep
 - kuopsquay/coreos.clair:v1.2.0
 - kuopsquay/coreos.clair:v1.2.2
 - kuopsquay/coreos.clair:v2.0.0-rc.0
