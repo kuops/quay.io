@@ -1,3 +1,14 @@
+- kuopsquay/coreos.torus:master
+- kuopsquay/coreos.torus:latest
+- kuopsquay/coreos.torus:v0.1.1
+- kuopsquay/coreos.torus:v0.1.2
+- kuopsquay/coreos.bootkube:v0.11.0
+- kuopsquay/coreos.bootkube:v0.12.0
+- kuopsquay/coreos.bootkube:v0.13.0
+- kuopsquay/coreos.clair-git:latest
+- kuopsquay/coreos.clair-git:master
+- kuopsquay/coreos.clair-git:latest
+- kuopsquay/coreos.clair-git:master
 - kuopsquay/coreos.clair-git:master
 - kuopsquay/coreos.torus:latest
 - kuopsquay/coreos.clair-jwt:v1.2.6
