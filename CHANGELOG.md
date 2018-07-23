@@ -1,3 +1,17 @@
+- kuopsquay/calico.felix:3.1.0-176-g6af11396-amd64
+- kuopsquay/calico.felix:3.1.0-176-g6af11396
+- kuopsquay/calico.felix:release-v3.0
+- kuopsquay/calico.felix:3.0.7-4-g71090aa2
+- kuopsquay/calico.felix:release-v3.1
+- kuopsquay/calico.felix:3.1.3-8-gb0e8f8aa
+- kuopsquay/calico.felix:master
+- kuopsquay/calico.felix:master-amd64
+- kuopsquay/calico.felix:master
+- kuopsquay/calico.felix:3.1.0-178-g36dc8f6f
+- kuopsquay/calico.felix:3.1.0-178-g36dc8f6f-amd64
+- kuopsquay/calico.felix:3.1.0-178-g36dc8f6f
+- kuopsquay/calico.felix:3.1.0-178-g36dc8f6f-amd64
+- kuopsquay/calico.felix:3.1.0-178-g36dc8f6f
 - kuopsquay/calico.felix:3.1.0-180-gacc0f737
 - kuopsquay/calico.felix:3.1.0-180-gacc0f737-amd64
 - kuopsquay/calico.felix:3.1.0-184-g0ff3c42a-amd64
