@@ -1,3 +1,17 @@
+- kuopsquay/calico.cni:v2.0.0-98-gff6489f-amd64
+- kuopsquay/calico.cni:v2.0.0-98-gff6489f-amd64
+- kuopsquay/calico.cni:v2.0.0-98-gff6489f
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:master
+- kuopsquay/calico.cni:release-v3.1
+- kuopsquay/calico.cni:release-v3.1-amd64
+- kuopsquay/calico.cni:v3.1.3-15-g022e484-amd64
+- kuopsquay/calico.cni:v3.1.3-15-g022e484
+- kuopsquay/calico.cni:v2.0.0-101-g6721b61-amd64
+- kuopsquay/calico.cni:v2.0.0-101-g6721b61
+- kuopsquay/calico.cni:master
+- kuopsquay/calico.cni:v2.0.0-103-g8a139d1
+- kuopsquay/calico.cni:v2.0.0-103-g8a139d1-amd64
 - kuopsquay/calico.cni:v2.0.0-103-g8a139d1
 - kuopsquay/calico.cni:master-amd64
 - kuopsquay/calico.cni:v2.0.0-103-g8a139d1-amd64
