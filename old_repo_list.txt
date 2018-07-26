@@ -1,3 +1,4 @@
+calico/bird
 calico/build
 calico/cni
 calico/confd
