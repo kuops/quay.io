@@ -1,3 +1,9 @@
+- kuopsquay/coreos.hyperkube:v1.9.1_coreos.0
+- kuopsquay/coreos.hyperkube:v1.9.3_coreos.0
+- kuopsquay/coreos.hyperkube:v1.8.9_coreos.0
+- kuopsquay/coreos.hyperkube:v1.9.4_coreos.0
+- kuopsquay/coreos.hyperkube:v1.8.10_coreos.0
+- kuopsquay/coreos.hyperkube:v1.9.5_coreos.0
 - kuopsquay/coreos.tectonic-console-builder:v2
 - kuopsquay/coreos.tectonic-console-builder:v14
 - kuopsquay/coreos.tectonic-console-builder:v11
