@@ -1,3 +1,17 @@
+- kuopsquay/calico.routereflector:pr-21-nj
+- kuopsquay/calico.routereflector:v0.2.0-rc1
+- kuopsquay/calico.routereflector:v0.2.0
+- kuopsquay/calico.typha:v0.7.2-74-g2acca41-ppc64le
+- kuopsquay/calico.typha:v0.7.2-74-g2acca41
+- kuopsquay/calico.typha:master-amd64
+- kuopsquay/calico.typha:v0.7.2-74-g2acca41-amd64
+- kuopsquay/calico.routereflector:v1.6.3calico0.3.0
+- kuopsquay/calico.routereflector:v0.3.0
+- kuopsquay/calico.routereflector:v0.2.1
+- kuopsquay/calico.routereflector:v0.2.2-alpha2
+- kuopsquay/calico.typha:master-arm64
+- kuopsquay/calico.typha:v0.7.2-74-g2acca41-arm64
+- kuopsquay/calico.typha:v0.7.2-74-g2acca41-arm64
 - kuopsquay/calico.routereflector:feature-ipinip
 - kuopsquay/calico.routereflector:v0.5.0
 - kuopsquay/calico.routereflector:v0.4.0
