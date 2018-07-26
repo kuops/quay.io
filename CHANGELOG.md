@@ -1,3 +1,11 @@
+- kuopsquay/coreos.tectonic-builder:v1.18
+- kuopsquay/coreos.tectonic-builder:v1.23
+- kuopsquay/coreos.tectonic-builder:v1.25
+- kuopsquay/coreos.tectonic-builder:v1.26
+- kuopsquay/coreos.tectonic-builder:v1.28
+- kuopsquay/coreos.tectonic-builder:v1.29
+- kuopsquay/coreos.tectonic-builder:v1.30
+- kuopsquay/coreos.tectonic-builder:v1.34-upstream-terraform
 - kuopsquay/coreos.tectonic-builder:v1.46
 - kuopsquay/coreos.bootkube:v0.1.5
 - kuopsquay/coreos.bootkube:v0.2.1
