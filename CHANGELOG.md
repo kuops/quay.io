@@ -1,3 +1,13 @@
+- kuopsquay/coreos.dex:b33227bcd4c3b78d3279e2ea22790d57fef5b48c
+- kuopsquay/coreos.dex:630bf86f32df5288bd3decfdeef717c995c43fa2
+- kuopsquay/coreos.dex:7caaca9a2c4d8368cc70f86bbdfb8555daf47df3
+- kuopsquay/coreos.dex:372e4a0576232e03c607b56bda596a834aca5b82
+- kuopsquay/coreos.dex:0086a1c1bbf596df912d408cdade70192a6155f6
+- kuopsquay/coreos.dex:4b9bdf163db85373f3ea59bb227dec445c618cbf
+- kuopsquay/coreos.dex:v2.0.0-alpha.4
+- kuopsquay/coreos.dex:v2.0.0-alpha.3
+- kuopsquay/coreos.dex:v2.0.0-alpha.5
+- kuopsquay/coreos.dex:v2.0.0-beta.1
 - kuopsquay/coreos.dex:v2.0.0-beta.3
 - kuopsquay/coreos.dex:v2.0.0
 - kuopsquay/coreos.dex:v2.0.1
