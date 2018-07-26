@@ -1,3 +1,17 @@
+- kuopsquay/calico.dikastes:cc9a150-amd64
+- kuopsquay/calico.dikastes:cc9a150-amd64
+- kuopsquay/calico.dikastes:cc9a150
+- kuopsquay/calico.dikastes:master
+- kuopsquay/calico.dikastes:master-amd64
+- kuopsquay/calico.dikastes:cc9a150
+- kuopsquay/calico.dikastes:cc9a150-amd64
+- kuopsquay/calico.dikastes:cc9a150
+- kuopsquay/calico.dikastes:f5f117b-amd64
+- kuopsquay/calico.dikastes:f5f117b
+- kuopsquay/calico.dikastes:master
+- kuopsquay/calico.dikastes:master
+- kuopsquay/calico.dikastes:master-amd64
+- kuopsquay/calico.dikastes:master-amd64
 - kuopsquay/calico.dikastes:1795bdd
 - kuopsquay/calico.dikastes:1795bdd-amd64
 - kuopsquay/calico.dikastes:1795bdd-amd64
