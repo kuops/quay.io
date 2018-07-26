@@ -1,3 +1,4 @@
+- kuopsquay/coreos.tectonic-console-builder:v2
 - kuopsquay/coreos.tectonic-console-builder:v14
 - kuopsquay/coreos.tectonic-console-builder:v11
 - kuopsquay/coreos.tectonic-console-builder:v13
