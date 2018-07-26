@@ -1,3 +1,4 @@
+- kuopsquay/coreos.tectonic-builder:v1.46
 - kuopsquay/coreos.bootkube:v0.1.5
 - kuopsquay/coreos.bootkube:v0.2.1
 - kuopsquay/coreos.bootkube:v0.2.3
