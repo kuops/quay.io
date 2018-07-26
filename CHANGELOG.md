@@ -1,3 +1,12 @@
+- kuopsquay/coreos.libtorrent-go:darwin-x64
+- kuopsquay/coreos.hyperkube:v1.6.11_coreos.0
+- kuopsquay/coreos.libtorrent-go:linux-x64
+- kuopsquay/coreos.hyperkube:v1.7.7_coreos.0
+- kuopsquay/coreos.awscli:025a357f05242fdad6a81e8a6b520098aa65a600
+- kuopsquay/coreos.awscli:edge
+- kuopsquay/coreos.awscli:master
+- kuopsquay/coreos.hyperkube:v1.8.0_coreos.0
+- kuopsquay/coreos.hyperkube:v1.7.4_coreos.1
 - kuopsquay/coreos.hyperkube:v1.6.12_coreos.0
 - kuopsquay/coreos.hyperkube:v1.5.8_coreos.0
 - kuopsquay/coreos.hyperkube:v1.6.13_coreos.0
