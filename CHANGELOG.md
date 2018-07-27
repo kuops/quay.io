@@ -2,6 +2,14 @@
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:v0.17
+- kuopsquay/calico.go-build:v0.17
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
 - kuopsquay/calico.felix:3.1.0-184-g0ff3c42a
 - kuopsquay/calico.felix:3.1.0-184-g0ff3c42a-amd64
 - kuopsquay/calico.felix:release-v3.0
