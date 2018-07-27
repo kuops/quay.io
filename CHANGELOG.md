@@ -1,3 +1,16 @@
+- kuopsquay/calico.dikastes:1795bdd-amd64
+- kuopsquay/calico.dikastes:1795bdd
+- kuopsquay/calico.dikastes:1795bdd-arm64
+- kuopsquay/calico.dikastes:1795bdd-ppc64le
+- kuopsquay/calico.dikastes:master-amd64
+- kuopsquay/calico.dikastes:master
+- kuopsquay/calico.dikastes:1795bdd
+- kuopsquay/calico.dikastes:1795bdd-arm64
+- kuopsquay/calico.dikastes:1795bdd-ppc64le
+- kuopsquay/calico.dikastes:7ef79a3-ppc64le
+- kuopsquay/calico.dikastes:master-amd64
+- kuopsquay/calico.dikastes:7ef79a3-amd64
+- kuopsquay/calico.dikastes:master-arm64
 - kuopsquay/calico.ctl:v3.1.3-7-gb82632af-amd64
 - kuopsquay/calico.ctl:v3.1.3-7-gb82632af
 - kuopsquay/calico.ctl:master-amd64
