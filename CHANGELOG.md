@@ -1,3 +1,17 @@
+- kuopsquay/coreos.libtorrent-go:android-x86
+- kuopsquay/coreos.libtorrent-go:linux-x86
+- kuopsquay/coreos.libtorrent-go:linux-x64
+- kuopsquay/coreos.jwtproxy:3538699
+- kuopsquay/coreos.jwtproxy:latest
+- kuopsquay/coreos.awscli:latest
+- kuopsquay/coreos.awscli:025a357f05242fdad6a81e8a6b520098aa65a600
+- kuopsquay/coreos.awscli:edge
+- kuopsquay/coreos.hyperkube:v1.6.9_coreos.1
+- kuopsquay/coreos.hyperkube:v1.6.11_coreos.0
+- kuopsquay/coreos.awscli:master
+- kuopsquay/coreos.hyperkube:v1.7.4_coreos.1
+- kuopsquay/coreos.hyperkube:v1.8.0_coreos.0
+- kuopsquay/coreos.hyperkube:v1.7.7_coreos.0
 - kuopsquay/coreos.hyperkube:v1.5.8_coreos.0
 - kuopsquay/coreos.hyperkube:v1.6.13_coreos.0
 - kuopsquay/coreos.hyperkube:v1.8.1_coreos.0
