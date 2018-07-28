@@ -1,3 +1,12 @@
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60-amd64
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60-amd64
+- kuopsquay/calico.bird:feature-ipinip-ppc64le
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60-arm64
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60-s390x
 - kuopsquay/coreos.libtorrent-go:android-x86
 - kuopsquay/coreos.libtorrent-go:linux-x86
 - kuopsquay/coreos.libtorrent-go:linux-x64
