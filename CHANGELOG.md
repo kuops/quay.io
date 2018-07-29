@@ -1,3 +1,15 @@
+- kuopsquay/calico.istio-ca:4bef1f18
+- kuopsquay/calico.istio-ca:20171130222000
+- kuopsquay/calico.istio-ca:20171130235454
+- kuopsquay/calico.istio-ca:26db2303
+- kuopsquay/calico.istio-ca:20180118231149
+- kuopsquay/calico.istio-pilot:20171130221407
+- kuopsquay/calico.istio-pilot:438ee501
+- kuopsquay/calico.istio-pilot:20171130234734
+- kuopsquay/calico.istio-pilot:794087ca
+- kuopsquay/calico.istio-pilot:20180109223503
+- kuopsquay/calico.istio-pilot:20180117232326
+- kuopsquay/calico.istio-pilot:latest
 - kuopsquay/calico.go-build:v0.8
 - kuopsquay/calico.go-build:go-1.9
 - kuopsquay/calico.go-build:v0.9
