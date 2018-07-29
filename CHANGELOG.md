@@ -1,3 +1,8 @@
+- kuopsquay/calico.routereflector:v0.6.1
+- kuopsquay/calico.routereflector:v0.6.2
+- kuopsquay/calico.routereflector:v0.5.1
+- kuopsquay/calico.routereflector:v0.6.3-amd64
+- kuopsquay/calico.pilot-webhook:20180222202805
 - kuopsquay/calico.node-libnetwork:v0.8.0
 - kuopsquay/calico.node-libnetwork:contributing-doc
 - kuopsquay/calico.node-libnetwork:update-slack-url
