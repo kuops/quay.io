@@ -1,3 +1,15 @@
+- kuopsquay/calico.kube-controllers:master
+- kuopsquay/calico.kube-controllers:master-ppc64le
+- kuopsquay/calico.kube-controllers:master-arm64
+- kuopsquay/calico.kube-controllers:master-amd64
+- kuopsquay/calico.kube-controllers:v2.0.0-86-g307a3ed
+- kuopsquay/calico.kube-controllers:master
+- kuopsquay/calico.kube-controllers:v2.0.0-86-g307a3ed-arm64
+- kuopsquay/calico.kube-controllers:master-arm64
+- kuopsquay/calico.kube-controllers:v2.0.0-86-g307a3ed-ppc64le
+- kuopsquay/calico.kube-controllers:master-ppc64le
+- kuopsquay/calico.kube-controllers:release-v3.1-amd64
+- kuopsquay/calico.kube-controllers:v3.1.3-6-gbda9fbf
 - kuopsquay/calico.kube-policy-controller:v0.6.1-4-g7b1470c
 - kuopsquay/calico.kube-policy-controller:v0.6.1-2-g9dba9e1
 - kuopsquay/calico.kube-policy-controller:v0.7.0-2-gb4b778e
