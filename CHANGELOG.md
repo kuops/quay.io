@@ -1,3 +1,5 @@
+- kuopsquay/coreos.clair:v1.2.4
+- kuopsquay/coreos.clair:v2.0.0-pre.0
 - kuopsquay/coreos.clair:v2.0.0-rc.1
 - kuopsquay/coreos.clair:v2.0.0-pre.4
 - kuopsquay/coreos.clair:v2.0.1
