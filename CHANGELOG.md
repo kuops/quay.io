@@ -1,3 +1,6 @@
+- kuopsquay/calico.node:release-v3.1
+- kuopsquay/calico.node:v3.1.0-dev-43-gc1b6208-amd64
+- kuopsquay/calico.node:master
 - kuopsquay/calico.node:v3.0.8-12-gca5cb35a
 - kuopsquay/calico.node:release-v3.0
 - kuopsquay/calico.node:v3.1.3-2-g3399b489
