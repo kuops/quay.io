@@ -1,3 +1,11 @@
+- kuopsquay/calico.kube-policy-controller:v0.5.4-2-g6100a19
+- kuopsquay/calico.kube-policy-controller:v0.5.4-16-g8a85fd5
+- kuopsquay/calico.kube-policy-controller:v0.5.4-8-gdec9443
+- kuopsquay/calico.kube-policy-controller:v0.6.0-7-g8aaefe9
+- kuopsquay/calico.kube-policy-controller:semaphore-push
+- kuopsquay/calico.kube-policy-controller:v0.6.0-9-g7cfc490
+- kuopsquay/calico.kube-policy-controller:v0.6.1-2-g9dba9e1
+- kuopsquay/calico.kube-policy-controller:v0.6.1
 - kuopsquay/calico.kube-policy-controller:v0.6.1-4-g7b1470c
 - kuopsquay/calico.kube-policy-controller:v0.7.0
 - kuopsquay/calico.kube-policy-controller:golang
