@@ -1,3 +1,11 @@
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:feature-ipinip-arm64
+- kuopsquay/calico.bird:feature-ipinip-ppc64le
+- kuopsquay/calico.bird:v0.3.2-15-g4918b4e4-s390x
+- kuopsquay/calico.bird:v0.3.2-15-g4918b4e4-arm64
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-s390x
+- kuopsquay/calico.bird:feature-ipinip-arm64
 - kuopsquay/calico.node:release-v3.1
 - kuopsquay/calico.node:master
 - kuopsquay/calico.node:v3.1.0-dev-46-ga94f4df-amd64
