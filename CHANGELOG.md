@@ -1,3 +1,10 @@
+- kuopsquay/calico.istio-ca:794087ca
+- kuopsquay/calico.istio-ca:20180109224419
+- kuopsquay/calico.istio-ca:20180118231149
+- kuopsquay/calico.istio-pilot:20171130221407
+- kuopsquay/calico.istio-pilot:794087ca
+- kuopsquay/calico.istio-pilot:4bef1f18
+- kuopsquay/calico.istio-pilot:be3a23a5
 - kuopsquay/calico.go-build:v0.5
 - kuopsquay/calico.go-build:go-1.9
 - kuopsquay/calico.go-build:v0.6
