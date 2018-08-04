@@ -2,6 +2,13 @@
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:v0.17
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
 - kuopsquay/calico.felix:master-ppc64le
 - kuopsquay/calico.felix:3.1.0-191-g9b4afc2b-amd64
 - kuopsquay/calico.felix:3.1.0-191-g9b4afc2b
