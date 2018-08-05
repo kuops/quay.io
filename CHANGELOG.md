@@ -1,3 +1,17 @@
+- kuopsquay/calico.felix:3.1.0-192-g7f97e7a5-amd64
+- kuopsquay/calico.felix:3.1.0-192-g7f97e7a5
+- kuopsquay/calico.felix:3.1.0-192-g7f97e7a5-amd64
+- kuopsquay/calico.felix:master-amd64
+- kuopsquay/calico.felix:master-amd64
+- kuopsquay/calico.felix:master
+- kuopsquay/calico.felix:3.1.0-192-g7f97e7a5
+- kuopsquay/calico.envoy-debug:20171130-d75df7a
+- kuopsquay/calico.felix:3.1.0-192-g7f97e7a5-arm64
+- kuopsquay/calico.felix:3.1.0-192-g7f97e7a5-arm64
+- kuopsquay/calico.felix:master-arm64
+- kuopsquay/calico.envoy-debug:20180105-1175837
+- kuopsquay/calico.envoy-debug:20180117-64ac567
+- kuopsquay/calico.felix:3.1.0-192-g7f97e7a5-ppc64le
 - kuopsquay/calico.envoy:20171130-d75df7a
 - kuopsquay/calico.envoy-debug:20180117-e40fdd9
 - kuopsquay/calico.envoy:20180105-1175837
