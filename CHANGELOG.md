@@ -1,3 +1,8 @@
+- kuopsquay/calico.dikastes:master-ppc64le
+- kuopsquay/calico.dikastes:cd95662
+- kuopsquay/calico.dikastes:cd95662-arm64
+- kuopsquay/calico.dikastes:cd95662-arm64
+- kuopsquay/calico.dikastes:master-arm64
 - kuopsquay/calico.ctl:master-ppc64le
 - kuopsquay/calico.ctl:v2.0.0-85-gfe365634-amd64
 - kuopsquay/calico.ctl:v2.0.0-85-gfe365634
