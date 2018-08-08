@@ -1,3 +1,12 @@
+- kuopsquay/calico.confd:v1.0.6-9-gda5943c-amd64
+- kuopsquay/calico.confd:release-v3.0
+- kuopsquay/calico.confd:v1.0.6-9-gda5943c-amd64
+- kuopsquay/calico.confd:release-v3.0-amd64
+- kuopsquay/calico.confd:release-v3.0
+- kuopsquay/calico.confd:v1.0.6-9-gda5943c-amd64
+- kuopsquay/calico.confd:release-v3.1
+- kuopsquay/calico.confd:v3.1.3-9-g39280d8
+- kuopsquay/calico.confd:release-v3.1
 - kuopsquay/calico.cni:v2.0.0-111-gb014c4c-amd64
 - kuopsquay/calico.cni:v2.0.0-111-gb014c4c
 - kuopsquay/calico.cni:v2.0.0-111-gb014c4c-arm64
