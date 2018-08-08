@@ -181,6 +181,7 @@ coreos/tectonic-ci-aio
 coreos/shellcheck-alpine
 coreos/jira-operator
 coreos/basic-auth-test-app
+coreos/etcd_discovery_purge
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
