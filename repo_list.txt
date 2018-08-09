@@ -26,6 +26,7 @@ calico/libnetwork-plugin
 calico/node
 calico/node-libnetwork
 calico/pilot-webhook
+calico/pod2daemon-flexvol
 calico/routereflector
 calico/typha
 calico/upgrade
@@ -182,6 +183,7 @@ coreos/shellcheck-alpine
 coreos/jira-operator
 coreos/basic-auth-test-app
 coreos/etcd_discovery_purge
+coreos/terraform-alpine
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
