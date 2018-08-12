@@ -1,3 +1,13 @@
+- kuopsquay/calico.build:v0.17.0
+- kuopsquay/calico.build:develop
+- kuopsquay/calico.build:v0.18.0
+- kuopsquay/calico.build:lr2-add-fvs
+- kuopsquay/calico.build:v0.19.0
+- kuopsquay/calico.build:fix-host-config
+- kuopsquay/calico.build:latest
+- kuopsquay/calico.bird:reinstate-ci-ppc64le
+- kuopsquay/calico.bird:reinstate-ci
+- kuopsquay/calico.bird:reinstate-ci-arm64
 - kuopsquay/calico.bird:v0.3.2-15-g4918b4e4-s390x
 - kuopsquay/calico.bird:feature-ipinip-amd64
 - kuopsquay/calico.bird:feature-ipinip
