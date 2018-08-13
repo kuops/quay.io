@@ -1,3 +1,11 @@
+- kuopsquay/calico.k8s-policy-agent:v0.1.4
+- kuopsquay/calico.k8s-policy-agent:v1beta-api
+- kuopsquay/calico.istio-proxy_init:20171130234734
+- kuopsquay/calico.istio-sidecar_initializer:20171130221407
+- kuopsquay/calico.istio-sidecar_initializer:20171130234734
+- kuopsquay/calico.istio-sidecar_initializer:20180109223503
+- kuopsquay/calico.istio-sidecar_initializer:latest
+- kuopsquay/calico.istio-sidecar_initializer:spike_180130_133148
 - kuopsquay/calico.istio-proxy_debug:20180117232326
 - kuopsquay/calico.istio-proxy_debug:4bef1f18
 - kuopsquay/calico.istio-proxy_debug:be3a23a5
