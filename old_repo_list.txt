@@ -184,6 +184,12 @@ coreos/jira-operator
 coreos/basic-auth-test-app
 coreos/etcd_discovery_purge
 coreos/terraform-alpine
+coreos/metering-helm-operator
+coreos/metering-reporting-operator
+coreos/metering-hadoop
+coreos/metering-hive
+coreos/metering-presto
+coreos/metering-e2e
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
