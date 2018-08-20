@@ -1,3 +1,16 @@
+- kuopsquay/calico.go-build:v0.12-amd64
+- kuopsquay/calico.go-build:v0.12
+- kuopsquay/calico.go-build:v0.16
+- kuopsquay/calico.go-build:master-amd64
+- kuopsquay/calico.go-build:v0.14
+- kuopsquay/calico.go-build:v0.14-amd64
+- kuopsquay/calico.go-build:v0.15
+- kuopsquay/calico.go-build:v0.13
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:mkumatag-cross_build
+- kuopsquay/calico.go-build:v0.13-amd64
+- kuopsquay/calico.go-build:v0.17
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.felix:master-amd64
 - kuopsquay/calico.felix:v3.2.0-7-ga9c5d482
