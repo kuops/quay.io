@@ -1,3 +1,15 @@
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:feature-ipinip-s390x
+- kuopsquay/calico.bird:feature-ipinip-arm64
+- kuopsquay/calico.bird:feature-ipinip-ppc64le
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-amd64
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-ppc64le
+- kuopsquay/calico.bird:feature-ipinip-ppc64le
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-ppc64le
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-arm64
 - kuopsquay/calico.istio-proxy_debug:794087ca
 - kuopsquay/calico.istio-proxy_debug:20180109223503
 - kuopsquay/calico.istio-proxy_debug:9c53805c791aaaf99288fb165f86e2556c08fa0c
