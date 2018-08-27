@@ -1,3 +1,6 @@
+- kuopsquay/calico.kube-controllers:v3.2.1-0-g6080508-arm64
+- kuopsquay/calico.k8s-policy-agent:release-v0.1.0
+- kuopsquay/calico.k8s-policy-agent:v0.1.2
 - kuopsquay/calico.k8s-policy-agent:v0.1.4
 - kuopsquay/calico.istio-proxy_init:20180109223503
 - kuopsquay/calico.istio-proxy_init:794087ca
