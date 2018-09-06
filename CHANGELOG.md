@@ -1,3 +1,17 @@
+- kuopsquay/calico.cni:v2.0.0-143-g9225cdb-ppc64le
+- kuopsquay/calico.cni:v2.0.0-143-g9225cdb-ppc64le
+- kuopsquay/calico.cni:v2.0.0-143-g9225cdb
+- kuopsquay/calico.cni:v2.0.0-143-g9225cdb-arm64
+- kuopsquay/calico.cni:v2.0.0-143-g9225cdb-amd64
+- kuopsquay/calico.cni:v2.0.0-144-g5938bbb-arm64
+- kuopsquay/calico.cni:v2.0.0-143-g9225cdb-arm64
+- kuopsquay/calico.cni:v2.0.0-143-g9225cdb
+- kuopsquay/calico.cni:master-arm64
+- kuopsquay/calico.cni:master-arm64
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:master
 - kuopsquay/calico.build:v0.13.0
 - kuopsquay/calico.build:update-slack-url
 - kuopsquay/calico.build:validate-port-spec
