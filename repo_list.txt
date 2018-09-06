@@ -190,6 +190,7 @@ coreos/metering-hadoop
 coreos/metering-hive
 coreos/metering-presto
 coreos/metering-e2e
+coreos/centos-bazel-go-oc
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
