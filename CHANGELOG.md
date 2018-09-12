@@ -1,3 +1,11 @@
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f-amd64
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f-ppc64le
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f-ppc64le
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f-ppc64le
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f
+- kuopsquay/calico.felix:master-amd64
+- kuopsquay/calico.felix:master-arm64
 - kuopsquay/calico.felix:v3.2.0-28-gb256f10f-ppc64le
 - kuopsquay/calico.felix:v3.2.0-28-gb256f10f-arm64
 - kuopsquay/calico.felix:release-v3.1
