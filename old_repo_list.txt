@@ -191,6 +191,7 @@ coreos/metering-hive
 coreos/metering-presto
 coreos/metering-e2e
 coreos/origin-release
+coreos/package-server
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
