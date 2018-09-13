@@ -1,3 +1,15 @@
+- kuopsquay/calico.dikastes:v3.2.1-14-g7ea7853-arm64
+- kuopsquay/calico.dikastes:master
+- kuopsquay/calico.dikastes:tomdee-patch-1
+- kuopsquay/calico.dikastes:v3.2.1-13-gf8602cb-arm64
+- kuopsquay/calico.dikastes:v3.2.1-14-g7ea7853
+- kuopsquay/calico.dikastes:v3.2.1-4-g72812cc-amd64
+- kuopsquay/calico.dikastes:v3.2.1-4-g72812cc-arm64
+- kuopsquay/calico.dikastes:v3.2.1-13-gf8602cb-ppc64le
+- kuopsquay/calico.dikastes:v3.2.1-4-g72812cc-ppc64le
+- kuopsquay/calico.dikastes:v3.2.1-4-g72812cc
+- kuopsquay/calico.dikastes:master-arm64
+- kuopsquay/calico.dikastes:master-amd64
 - kuopsquay/calico.dikastes:v3.2.1-13-gf8602cb-arm64
 - kuopsquay/calico.dikastes:master-arm64
 - kuopsquay/calico.dikastes:v3.2.1-13-gf8602cb-amd64
