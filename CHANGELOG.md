@@ -1,3 +1,9 @@
+- kuopsquay/calico.confd:master-amd64
+- kuopsquay/calico.confd:master
+- kuopsquay/calico.confd:release-v3.0
+- kuopsquay/calico.confd:v3.1.3-9-g39280d8
+- kuopsquay/calico.confd:v3.1.3-9-g39280d8
+- kuopsquay/calico.confd:v3.1.3-9-g39280d8-amd64
 - kuopsquay/calico.cni:v2.0.0-152-g6ac50a8-arm64
 - kuopsquay/calico.cni:v2.0.0-152-g6ac50a8
 - kuopsquay/calico.cni:v2.0.0-152-g6ac50a8
