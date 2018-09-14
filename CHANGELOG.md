@@ -1,3 +1,16 @@
+- kuopsquay/calico.envoy-debug:20180117-e40fdd9
+- kuopsquay/calico.envoy:20171130-d75df7a
+- kuopsquay/calico.envoy:20180104-8220069
+- kuopsquay/calico.envoy:20180105-1175837
+- kuopsquay/calico.envoy:20180117-e40fdd9
+- kuopsquay/calico.envoy:20180117-64ac567
+- kuopsquay/calico.dind:add-license
+- kuopsquay/calico.dind:pin-dep
+- kuopsquay/calico.dind:latest
+- kuopsquay/calico.dikastes:v3.2.1-4-g72812cc-ppc64le
+- kuopsquay/calico.dikastes:v3.2.1-14-g7ea7853-arm64
+- kuopsquay/calico.dikastes:v3.2.1-14-g7ea7853-ppc64le
+- kuopsquay/calico.dikastes:tomdee-patch-1-ppc64le
 - kuopsquay/calico.dikastes:v3.2.1-13-gf8602cb-arm64
 - kuopsquay/calico.dikastes:v3.2.1-13-gf8602cb-amd64
 - kuopsquay/calico.dikastes:master-amd64
