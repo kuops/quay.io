@@ -192,6 +192,8 @@ coreos/metering-presto
 coreos/metering-e2e
 coreos/origin-release
 coreos/package-server
+coreos/cluster-api-provider-libvirt
+coreos/machine-api-operator
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
