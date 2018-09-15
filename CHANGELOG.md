@@ -1,3 +1,11 @@
+- kuopsquay/calico.felix:master-ppc64le
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f-ppc64le
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f-ppc64le
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f-arm64
+- kuopsquay/calico.felix:v3.2.0-28-gb256f10f
+- kuopsquay/calico.felix:master-amd64
+- kuopsquay/calico.felix:master-arm64
+- kuopsquay/calico.felix:master-arm64
 - kuopsquay/calico.envoy-debug:20171130-d75df7a
 - kuopsquay/calico.felix:3.1.3-10-g63385486
 - kuopsquay/calico.felix:release-v3.2-amd64
