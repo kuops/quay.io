@@ -1,3 +1,12 @@
+- kuopsquay/calico.hyperkube:v1.2.3_coreos.1-cni
+- kuopsquay/calico.htmlproofer:v0.1
+- kuopsquay/calico.istio-ca:26db2303
+- kuopsquay/calico.istio-ca:438ee501
+- kuopsquay/calico.istio-pilot:latest
+- kuopsquay/calico.htmlproofer:latest
+- kuopsquay/calico.htmlproofer:v0.2
+- kuopsquay/calico.gobgpd:v0.1.2
+- kuopsquay/calico.gobgpd:v0.2.1
 - kuopsquay/calico.go-build:v0.6
 - kuopsquay/calico.go-build:v0.8
 - kuopsquay/calico.go-build:v0.9
