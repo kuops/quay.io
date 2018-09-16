@@ -194,6 +194,7 @@ coreos/origin-release
 coreos/package-server
 coreos/cluster-api-provider-libvirt
 coreos/machine-api-operator
+coreos/metering-builder
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
