@@ -1,3 +1,14 @@
+- kuopsquay/calico.istio-proxy_debug:794087ca
+- kuopsquay/calico.istio-proxy_debug:20180109223503
+- kuopsquay/calico.istio-proxy_debug:20171130221407
+- kuopsquay/calico.istio-proxy_debug:438ee501
+- kuopsquay/calico.istio-proxy_init:20171130234734
+- kuopsquay/calico.istio-proxy_init:20180118230747
+- kuopsquay/calico.istio-proxy_init:20180117232326
+- kuopsquay/calico.istio-proxy_init:20171130221407
+- kuopsquay/calico.istio-proxy_debug:20180117232326
+- kuopsquay/calico.istio-proxy_debug:4bef1f18
+- kuopsquay/calico.istio-proxy_debug:20180118230747
 - kuopsquay/calico.istio-proxy_debug:latest
 - kuopsquay/calico.istio-proxy:20171130221407
 - kuopsquay/calico.istio-proxy:26db2303
