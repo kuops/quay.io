@@ -195,6 +195,9 @@ coreos/package-server
 coreos/cluster-api-provider-libvirt
 coreos/machine-api-operator
 coreos/metering-builder
+coreos/fero-bastion
+coreos/fero-server
+coreos/yubihsm-connector
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
