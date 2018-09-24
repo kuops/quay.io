@@ -1,3 +1,9 @@
+- kuopsquay/calico.leader-elector:v0.1.0
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-17-g5e296f6
+- kuopsquay/calico.libnetwork-plugin:master
+- kuopsquay/calico.libnetwork-plugin:master
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-17-g5e296f6
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-17-g5e296f6
 - kuopsquay/calico.kube-policy-controller:v0.5.2-7-gc290215
 - kuopsquay/calico.kube-policy-controller:v0.5.4-8-gdec9443
 - kuopsquay/calico.kube-policy-controller:djosborne-patch-1
