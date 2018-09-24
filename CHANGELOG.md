@@ -1,3 +1,13 @@
+- kuopsquay/calico.gobgpd:v0.2.2-30-ga5897ca
+- kuopsquay/calico.gobgpd:v0.2.2-32-g8dacf80-amd64
+- kuopsquay/calico.gobgpd:v0.2.2-32-g8dacf80
+- kuopsquay/calico.gobgpd:v0.2.2-32-g8dacf80-amd64
+- kuopsquay/calico.gobgpd:v0.2.2-32-g8dacf80
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.gobgpd:master-amd64
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.gobgpd:master-amd64
+- kuopsquay/calico.gobgpd:master
 - kuopsquay/calico.go-build:v0.6
 - kuopsquay/calico.go-build:v0.8
 - kuopsquay/calico.go-build:v0.10
