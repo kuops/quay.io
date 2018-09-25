@@ -1,3 +1,14 @@
+- kuopsquay/calico.cni:v2.0.0-170-g980372a-arm64
+- kuopsquay/calico.cni:v2.0.0-170-g980372a-arm64
+- kuopsquay/calico.cni:master-arm64
+- kuopsquay/calico.cni:v3.2.2-2-g312c9f4-ppc64le
+- kuopsquay/calico.cni:release-v3.2-ppc64le
+- kuopsquay/calico.cni:release-v3.2
+- kuopsquay/calico.cni:v3.2.2-2-g312c9f4
+- kuopsquay/calico.cni:v3.2.2-2-g312c9f4-arm64
+- kuopsquay/calico.cni:v2.0.0-170-g980372a-ppc64le
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:v2.0.0-170-g980372a-amd64
 - kuopsquay/calico.build:contributing-doc
 - kuopsquay/calico.build:validate-port-spec
 - kuopsquay/calico.build:v0.12.0
