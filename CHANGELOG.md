@@ -1,3 +1,14 @@
+- kuopsquay/calico.istio-proxy_debug:latest
+- kuopsquay/calico.istio-proxy:20171130221407
+- kuopsquay/calico.istio-proxy:438ee501
+- kuopsquay/calico.istio-proxy:20171130234734
+- kuopsquay/calico.istio-proxy:20180109223503
+- kuopsquay/calico.istio-proxy:20180117232326
+- kuopsquay/calico.istio-proxy:4bef1f18
+- kuopsquay/calico.istio-proxy:latest
+- kuopsquay/calico.istio-pilot:26db2303
+- kuopsquay/calico.istio-pilot:20171130234734
+- kuopsquay/calico.istio-pilot:20180117232326
 - kuopsquay/calico.hyperkube:v1.2.3_coreos.0-cni
 - kuopsquay/calico.htmlproofer:v0.0
 - kuopsquay/calico.htmlproofer:v0.1
