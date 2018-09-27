@@ -1,3 +1,12 @@
+- kuopsquay/calico.go-build:master-amd64
+- kuopsquay/calico.go-build:v0.15
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:v0.16
+- kuopsquay/calico.go-build:v0.14
+- kuopsquay/calico.go-build:v0.17
 - kuopsquay/calico.go-build:v0.18
 - kuopsquay/calico.felix:v3.2.0-27-g107d3429-arm64
 - kuopsquay/calico.go-build:master
