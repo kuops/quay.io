@@ -1,3 +1,10 @@
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-amd64
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-amd64
+- kuopsquay/calico.bird:feature-ipinip-arm64
+- kuopsquay/calico.bird:feature-ipinip-s390x
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-ppc64le
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-ppc64le
+- kuopsquay/calico.bird:feature-ipinip-arm64
 - kuopsquay/calico.kube-policy-controller:semaphore-push
 - kuopsquay/calico.kube-policy-controller:v0.6.0-9-g7cfc490
 - kuopsquay/calico.kube-policy-controller:v0.6.1

@@ -198,6 +198,7 @@ coreos/metering-builder
 coreos/fero-bastion
 coreos/fero-server
 coreos/yubihsm-connector
+coreos/helm
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
