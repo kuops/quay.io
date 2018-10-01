@@ -1,3 +1,15 @@
+- kuopsquay/calico.htmlproofer:v0.1
+- kuopsquay/calico.htmlproofer:v0.0
+- kuopsquay/calico.hyperkube:v1.2.3_coreos.0-cni
+- kuopsquay/calico.hyperkube:v1.2.3_coreos.1-cni
+- kuopsquay/calico.istio-ca:latest
+- kuopsquay/calico.istio-ca:be3a23a5
+- kuopsquay/calico.htmlproofer:v0.2
+- kuopsquay/calico.htmlproofer:latest
+- kuopsquay/calico.gobgpd:v0.2.2-30-ga5897ca-amd64
+- kuopsquay/calico.gobgpd:v0.2.2-30-ga5897ca
+- kuopsquay/calico.gobgpd:master-amd64
+- kuopsquay/calico.gobgpd:master
 - kuopsquay/calico.gobgpd:v0.2.2-32-g8dacf80-amd64
 - kuopsquay/calico.gobgpd:v0.2.2-32-g8dacf80
 - kuopsquay/calico.gobgpd:master-amd64
