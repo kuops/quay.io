@@ -1,3 +1,10 @@
+- kuopsquay/calico.cni:v2.0.0-179-g7f3a409-arm64
+- kuopsquay/calico.cni:v2.0.0-179-g7f3a409-arm64
+- kuopsquay/calico.cni:master-arm64
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:v2.0.0-179-g7f3a409
+- kuopsquay/calico.cni:master
 - kuopsquay/calico.build:v0.16.0
 - kuopsquay/calico.build:v0.12.0
 - kuopsquay/calico.cni:v2.0.0-179-g7f3a409-ppc64le
