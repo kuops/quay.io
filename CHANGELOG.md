@@ -1,3 +1,4 @@
+-------------------------------at 2018-10-03 15:02:37 sync image repositorys-------------------------------
 - kuopsquay/calico.kube-controllers:v3.2.0-31-gaa8c472-ppc64le
 - kuopsquay/calico.kube-controllers:v3.2.0-31-gaa8c472-arm64
 - kuopsquay/calico.kube-controllers:release-v3.1
