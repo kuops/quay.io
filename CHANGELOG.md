@@ -1,3 +1,9 @@
+- kuopsquay/calico.bird:feature-ipinip-s390x
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:feature-ipinip-s390x
+- kuopsquay/calico.bird:feature-ipinip-arm64
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-arm64
 -------------------------------at 2018-10-03 15:02:37 sync image repositorys-------------------------------
 - kuopsquay/calico.kube-controllers:v3.2.0-31-gaa8c472-ppc64le
 - kuopsquay/calico.kube-controllers:v3.2.0-31-gaa8c472-arm64
