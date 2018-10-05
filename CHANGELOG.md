@@ -1,3 +1,8 @@
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-arm64
+- kuopsquay/calico.bird:feature-ipinip-ppc64le
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-ppc64le
 - kuopsquay/calico.kube-controllers:release-v3.2-arm64
 - kuopsquay/calico.kube-controllers:v3.2.3-0-gec4c6e2-ppc64le
 - kuopsquay/calico.kube-controllers:v3.2.3-0-gec4c6e2
