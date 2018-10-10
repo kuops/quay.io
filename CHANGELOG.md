@@ -1,3 +1,12 @@
+- kuopsquay/calico.ctl:v3.1.3-7-gb82632af
+- kuopsquay/calico.ctl:v3.1.3-7-gb82632af-amd64
+- kuopsquay/calico.ctl:release-v3.2
+- kuopsquay/calico.ctl:release-v3.2-amd64
+- kuopsquay/calico.ctl:v3.2.3-0-g319ae56f-ppc64le
+- kuopsquay/calico.ctl:release-v3.2-arm64
+- kuopsquay/calico.ctl:v2.0.0-125-gba292fa9
+- kuopsquay/calico.ctl:master-amd64
+- kuopsquay/calico.ctl:master-arm64
 - kuopsquay/calico.ctl:v2.0.0-126-g318dc1ed-arm64
 - kuopsquay/calico.ctl:master-arm64
 - kuopsquay/calico.ctl:v2.0.0-126-g318dc1ed-arm64
