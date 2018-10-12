@@ -1,3 +1,17 @@
+- kuopsquay/calico.build:v0.15.0
+- kuopsquay/calico.build:v0.13.0
+- kuopsquay/calico.build:update-slack-url
+- kuopsquay/calico.build:go-ipam
+- kuopsquay/calico.build:validate-port-spec
+- kuopsquay/calico.build:v0.12.0
+- kuopsquay/calico.build:go
+- kuopsquay/calico.build:v0.14.0
+- kuopsquay/calico.build:contributing-doc
+- kuopsquay/calico.build:v0.16.0
+- kuopsquay/calico.cni:v3.2.3-0-g312c9f4-arm64
+- kuopsquay/calico.cni:v2.0.0-199-gea2aa44-ppc64le
+- kuopsquay/calico.cni:release-v3.2
+- kuopsquay/calico.cni:v2.0.0-199-gea2aa44
 - kuopsquay/calico.build:lr2-add-fvs
 - kuopsquay/calico.build:develop
 - kuopsquay/calico.build:feature_utreports
