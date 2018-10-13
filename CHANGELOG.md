@@ -1,3 +1,13 @@
+- kuopsquay/calico.dikastes:v3.2.1-24-g19ecd1b-amd64
+- kuopsquay/calico.dikastes:v3.2.1-24-g19ecd1b
+- kuopsquay/calico.dikastes:master
+- kuopsquay/calico.dikastes:v3.2.1-24-g19ecd1b-arm64
+- kuopsquay/calico.dikastes:master-arm64
+- kuopsquay/calico.dikastes:v3.2.1-24-g19ecd1b-ppc64le
+- kuopsquay/calico.dikastes:master-ppc64le
+- kuopsquay/calico.dikastes:release-v3.2-arm64
+- kuopsquay/calico.dikastes:v3.2.3-0-g6113bb0-arm64
+- kuopsquay/calico.dikastes:v3.2.3-0-g6113bb0-ppc64le
 - kuopsquay/calico.ctl:v2.0.0-126-g318dc1ed-ppc64le
 - kuopsquay/calico.ctl:v3.2.3-0-g319ae56f-amd64
 - kuopsquay/calico.ctl:v2.0.0-126-g318dc1ed
