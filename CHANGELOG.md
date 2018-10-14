@@ -1,3 +1,17 @@
+- kuopsquay/calico.ctl:v2.0.0-127-g43e3adce
+- kuopsquay/calico.ctl:v2.0.0-127-g43e3adce-ppc64le
+- kuopsquay/calico.ctl:master
+- kuopsquay/calico.ctl:v2.0.0-128-ge12a0032-amd64
+- kuopsquay/calico.ctl:v2.0.0-128-ge12a0032-ppc64le
+- kuopsquay/calico.ctl:master-arm64
+- kuopsquay/calico.ctl:master-amd64
+- kuopsquay/calico.confd:v1.0.5-4-gcac835e
+- kuopsquay/calico.confd:v1.0.0-45-g252e67e
+- kuopsquay/calico.confd:v3.1.2-2-gaf8cdfb
+- kuopsquay/calico.confd:latest
+- kuopsquay/calico.confd:v1.0.6
+- kuopsquay/calico.confd:v3.1.3-0-gaf8cdfb
+- kuopsquay/calico.confd:v1.0.0-49-ge387154
 - kuopsquay/calico.confd:v1.0.0-51-ge9e8e6c
 - kuopsquay/calico.confd:v1.0.0-51-ge9e8e6c-amd64
 - kuopsquay/calico.confd:v1.0.0-54-g083668b
