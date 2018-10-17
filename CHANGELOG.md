@@ -1,3 +1,17 @@
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-10-g1ab24ff
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-12-gf9ddb9a
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-16-gfc6e328
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-20-gf0fc6c1
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-18-g500fbdd
+- kuopsquay/calico.libnetwork-plugin:semaphore-push
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-22-gfeec837
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-28-g20f511e
+- kuopsquay/calico.libnetwork-plugin:v1.1.1
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-32-ge319601
+- kuopsquay/calico.libnetwork-plugin:v1.1.x-series
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-40-g12419e6
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-38-gf9b4764
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-rc1-0-g12419e6
 - kuopsquay/calico.libnetwork-plugin:v1.1.2-6-gab49a81
 - kuopsquay/calico.libnetwork-plugin:v1.1.2-0-g12419e6
 - kuopsquay/calico.libnetwork-plugin:tom-automated-gobuild-update
