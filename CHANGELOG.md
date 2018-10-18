@@ -1,3 +1,15 @@
+- kuopsquay/calico.kube-policy-controller:egress-cidr-patch
+- kuopsquay/calico.kube-policy-controller:v0.7.0-44-g8c866b6
+- kuopsquay/calico.kube-policy-controller:v0.7.0-54-g266cbb6
+- kuopsquay/calico.kube-policy-controller:v0.7.0-46-g517d3ea
+- kuopsquay/calico.kube-policy-controller:v0.7.0-48-g1e18454
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc2-2-g427cdd3
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc1
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc1-4-g11e89e1
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc2-4-g662a528
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc2
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc3-2-g7402e55
+- kuopsquay/calico.kube-controllers:v3.2.0-39-g564ba23-ppc64le
 - kuopsquay/calico.kube-controllers:v3.2.0-39-g564ba23
 - kuopsquay/calico.kube-controllers:release-v3.2-amd64
 - kuopsquay/calico.kube-controllers:release-v3.2
