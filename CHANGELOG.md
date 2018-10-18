@@ -1,3 +1,17 @@
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-amd64
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-arm64
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-ppc64le
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-amd64
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-arm64
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-ppc64le
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-amd64
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-ppc64le
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-amd64
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-arm64
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-ppc64le
 - kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty
 - kuopsquay/calico.pod2daemon-flexvol:release-v3.2-amd64
 - kuopsquay/calico.pod2daemon-flexvol:release-v3.2-arm64
