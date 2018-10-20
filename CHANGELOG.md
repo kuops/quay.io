@@ -1,3 +1,11 @@
+- kuopsquay/calico.node-libnetwork:update-slack-url
+- kuopsquay/calico.node:master-ppc64le
+- kuopsquay/calico.node:master
+- kuopsquay/calico.node:v3.3.0-0.dev-83-gbd03844-arm64
+- kuopsquay/calico.node:v3.3.0-0.dev-83-gbd03844-ppc64le
+- kuopsquay/calico.node:v3.3.0-0.dev-83-gbd03844
+- kuopsquay/calico.node:v3.3.0-0.dev-83-gbd03844-amd64
+- kuopsquay/calico.node:casey-automated-libcalico-update-release-v3.3-arm64
 - kuopsquay/calico.node:casey-automated-libcalico-update-release-v3.3-ppc64le
 - kuopsquay/calico.node:v3.3.0-0.dev-79-g144b228-ppc64le
 - kuopsquay/calico.node:v3.3.0-0.dev-79-g144b228-arm64
