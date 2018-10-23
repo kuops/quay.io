@@ -1,6 +1,14 @@
 - kuopsquay/calico.gobgpd:master
 - kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24-amd64
 - kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24-amd64
+- kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24
+- kuopsquay/calico.gobgpd:master-amd64
+- kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24-amd64
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24-amd64
+- kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24
 - kuopsquay/calico.gobgpd:master-amd64
 - kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24-amd64
 - kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24
