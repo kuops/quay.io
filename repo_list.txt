@@ -200,6 +200,7 @@ coreos/fero-server
 coreos/yubihsm-connector
 coreos/helm
 coreos/presto
+coreos/prom-label-proxy
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
