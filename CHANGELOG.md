@@ -1,3 +1,12 @@
+- kuopsquay/calico.istio-proxy:latest
+- kuopsquay/calico.istio-ca:20180109224419
+- kuopsquay/calico.istio-ca:20171130222000
+- kuopsquay/calico.istio-ca:20180117233037
+- kuopsquay/calico.istio-ca:26db2303
+- kuopsquay/calico.istio-pilot:26db2303
+- kuopsquay/calico.istio-pilot:4bef1f18
+- kuopsquay/calico.istio-pilot:20180118230747
+- kuopsquay/calico.istio-pilot:latest
 - kuopsquay/calico.hyperkube:v1.2.3_coreos.0-cni
 - kuopsquay/calico.hyperkube:v1.2.3_coreos.1-cni
 - kuopsquay/calico.htmlproofer:v0.1
