@@ -1,3 +1,6 @@
+- kuopsquay/calico.routereflector:v0.4.1
+- kuopsquay/calico.routereflector:v0.4.2
+- kuopsquay/calico.routereflector:rr-v0.4.x-series
 - kuopsquay/calico.routereflector:rr-v0.4.2
 - kuopsquay/calico.routereflector:latest
 - kuopsquay/calico.routereflector:v0.6.0
