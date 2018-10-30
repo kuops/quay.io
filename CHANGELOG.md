@@ -1,3 +1,5 @@
+- kuopsquay/calico.cni:v3.2.3-0-g312c9f4-arm64
+- kuopsquay/calico.cni:v3.4.0-0.dev-6-g8f8c683
 - kuopsquay/calico.build:v0.12.0
 - kuopsquay/calico.build:v0.13.0
 - kuopsquay/calico.cni:v3.2.3-0-g312c9f4-ppc64le
