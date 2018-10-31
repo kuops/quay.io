@@ -1,3 +1,10 @@
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-ppc64le
+- kuopsquay/calico.pilot-webhook:eb9c71b
+- kuopsquay/calico.pilot-webhook:20180222202805
+- kuopsquay/calico.pilot-webhook:20180223192338
+- kuopsquay/calico.pilot-webhook:867aac6
+- kuopsquay/calico.pilot-webhook:20180319220721
+- kuopsquay/calico.pilot-webhook:bd069d7
 - kuopsquay/calico.node-libnetwork:v0.9.0-candidate
 - kuopsquay/calico.node-libnetwork:v0.9.0
 - kuopsquay/calico.node-libnetwork:v0.10.0
