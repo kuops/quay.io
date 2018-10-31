@@ -1,3 +1,16 @@
+- kuopsquay/calico.build:feature_utreports
+- kuopsquay/calico.build:v0.17.0
+- kuopsquay/calico.build:develop
+- kuopsquay/calico.build:lr2-add-fvs
+- kuopsquay/calico.build:v0.18.0
+- kuopsquay/calico.build:fix-host-config
+- kuopsquay/calico.build:cd-update-readme
+- kuopsquay/calico.build:latest
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60
+- kuopsquay/calico.bird:v0.3.2-13-g17d14e60-arm64
+- kuopsquay/calico.bird:reinstate-ci-amd64
+- kuopsquay/calico.bird:reinstate-ci
+- kuopsquay/calico.bird:reinstate-ci-ppc64le
 - kuopsquay/calico.bird:v0.3.2-16-ge9851a33-arm64
 - kuopsquay/calico.bird:v0.3.2-16-ge9851a33-amd64
 - kuopsquay/calico.bird:v0.3.2-16-ge9851a33-s390x
