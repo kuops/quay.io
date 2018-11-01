@@ -1,3 +1,8 @@
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-amd64
+- kuopsquay/calico.bird:feature-ipinip-arm64
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f
 - kuopsquay/calico.pod2daemon-flexvol:v3.2.3-0-ge0705f7-dirty-ppc64le
 - kuopsquay/calico.pilot-webhook:eb9c71b
 - kuopsquay/calico.pilot-webhook:20180222202805
