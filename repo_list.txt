@@ -201,6 +201,7 @@ coreos/yubihsm-connector
 coreos/helm
 coreos/presto
 coreos/prom-label-proxy
+coreos/hadoop
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
