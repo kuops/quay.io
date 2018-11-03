@@ -1,3 +1,6 @@
+- kuopsquay/calico.typha:master-arm64
+- kuopsquay/calico.typha:v3.4.0-0.dev-8-gac367c5-amd64
+- kuopsquay/calico.routereflector:v0.3.1-branch
 - kuopsquay/calico.routereflector:v0.5.0
 - kuopsquay/calico.routereflector:v0.4.1
 - kuopsquay/calico.routereflector:rr-v0.4.1
