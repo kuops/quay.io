@@ -1,3 +1,13 @@
+- kuopsquay/calico.ctl:release-v3.2-arm64
+- kuopsquay/calico.ctl:release-v3.2-ppc64le
+- kuopsquay/calico.ctl:v3.2.3-0-g319ae56f-amd64
+- kuopsquay/calico.ctl:v3.2.3-0-g319ae56f
+- kuopsquay/calico.ctl:karthik-automated-libcalico-update-master-amd64
+- kuopsquay/calico.ctl:v3.4.0-0.dev-6-gb5e6bca8-amd64
+- kuopsquay/calico.ctl:v3.4.0-0.dev-6-gb5e6bca8-ppc64le
+- kuopsquay/calico.ctl:master-arm64
+- kuopsquay/calico.ctl:master-ppc64le
+- kuopsquay/calico.ctl:master-amd64
 - kuopsquay/calico.ctl:master-arm64
 - kuopsquay/calico.ctl:v3.4.0-0.dev-7-gc76815a1-arm64
 - kuopsquay/calico.ctl:v3.4.0-0.dev-7-gc76815a1-ppc64le
