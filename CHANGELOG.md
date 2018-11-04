@@ -1,3 +1,14 @@
+- kuopsquay/calico.cni:v3.4.0-0.dev-15-g88f231c
+- kuopsquay/calico.cni:v3.4.0-0.dev-15-g88f231c-amd64
+- kuopsquay/calico.cni:v3.4.0-0.dev-15-g88f231c-arm64
+- kuopsquay/calico.cni:v3.4.0-0.dev-15-g88f231c-ppc64le
+- kuopsquay/calico.cni:karthik-automated-libcalico-update-master-arm64
+- kuopsquay/calico.cni:v3.4.0-0.dev-16-g2108df1-arm64
+- kuopsquay/calico.cni:v3.4.0-0.dev-16-g2108df1-ppc64le
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:karthik-automated-libcalico-update-master
+- kuopsquay/calico.cni:master
 - kuopsquay/calico.build:v0.12.0
 - kuopsquay/calico.build:v0.16.0
 - kuopsquay/calico.cni:master-amd64
