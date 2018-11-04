@@ -202,6 +202,7 @@ coreos/helm
 coreos/presto
 coreos/prom-label-proxy
 coreos/hadoop
+coreos/hive
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
