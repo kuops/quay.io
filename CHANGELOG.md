@@ -1,3 +1,15 @@
+- kuopsquay/calico.kube-policy-controller:v0.7.0-48-g1e18454
+- kuopsquay/calico.kube-policy-controller:v0.7.0-56-gf459e5a
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc1
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc2-4-g662a528
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc2-2-g427cdd3
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc2-7-g7a02f0b
+- kuopsquay/calico.kube-policy-controller:master
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc3-4-g0a97ab5
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc3-8-g94560dd
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc3-2-g7402e55
+- kuopsquay/calico.kube-controllers:karthik-automated-libcalico-update-release-v3.3-arm64
+- kuopsquay/calico.kube-controllers:karthik-automated-libcalico-update-release-v3.3-ppc64le
 - kuopsquay/calico.kube-controllers:v3.3.0-1-g3eb0f67-arm64
 - kuopsquay/calico.kube-controllers:v3.3.0-1-g3eb0f67-ppc64le
 - kuopsquay/calico.kube-controllers:v3.3.0-1-g3eb0f67-amd64
