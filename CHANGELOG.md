@@ -1,3 +1,17 @@
+- kuopsquay/calico.cni:master
+- kuopsquay/calico.cni:v3.4.0-0.dev-17-gc57bff4-amd64
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:v3.4.0-0.dev-17-gc57bff4-ppc64le
+- kuopsquay/calico.cni:release-v3.1-amd64
+- kuopsquay/calico.cni:v3.1.3-15-g022e484
+- kuopsquay/calico.cni:v3.4.0-0.dev-17-gc57bff4-arm64
+- kuopsquay/calico.cni:v3.1.3-15-g022e484-amd64
+- kuopsquay/calico.cni:v3.3.0-2-g5116cdc-ppc64le
+- kuopsquay/calico.cni:v3.3.0-2-g5116cdc
+- kuopsquay/calico.cni:release-v3.2-arm64
+- kuopsquay/calico.cni:release-v3.2-ppc64le
+- kuopsquay/calico.cni:release-v3.2
+- kuopsquay/calico.cni:v3.2.3-2-gabb8469-amd64
 - kuopsquay/calico.build:v0.13.0
 - kuopsquay/calico.build:v0.12.0
 - kuopsquay/calico.build:update-slack-url
