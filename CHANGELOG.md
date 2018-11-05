@@ -1,3 +1,8 @@
+- kuopsquay/calico.istio-proxy_init:20180109223503
+- kuopsquay/calico.istio-proxy_init:794087ca
+- kuopsquay/calico.istio-sidecar_initializer:4bef1f18
+- kuopsquay/calico.istio-sidecar_initializer:20180118230747
+- kuopsquay/calico.istio-sidecar_initializer:spike_180130_133148
 - kuopsquay/calico.istio-proxy_debug:794087ca
 - kuopsquay/calico.istio-proxy_debug:20180109223503
 - kuopsquay/calico.istio-proxy_debug:26db2303
