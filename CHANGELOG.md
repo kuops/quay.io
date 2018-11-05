@@ -1,3 +1,17 @@
+- kuopsquay/calico.envoy-debug:20180117-e40fdd9
+- kuopsquay/calico.envoy:20171130-d75df7a
+- kuopsquay/calico.envoy:20180105-1175837
+- kuopsquay/calico.envoy:20180104-8220069
+- kuopsquay/calico.envoy:20180117-64ac567
+- kuopsquay/calico.envoy:20180117-e40fdd9
+- kuopsquay/calico.dind:pin-dep
+- kuopsquay/calico.dind:master
+- kuopsquay/calico.dikastes:v3.2.3-1-g7a5fd41
+- kuopsquay/calico.dikastes:karthik-automated-libcalico-update-release-v3.3
+- kuopsquay/calico.dikastes:v3.2.3-1-g7a5fd41-ppc64le
+- kuopsquay/calico.dikastes:karthik-automated-libcalico-update-release-v3.3-amd64
+- kuopsquay/calico.dikastes:v3.3.0-1-g148c5bb
+- kuopsquay/calico.dikastes:karthik-automated-libcalico-update-release-v3.3-arm64
 - kuopsquay/calico.dikastes:release-v3.3-amd64
 - kuopsquay/calico.dikastes:release-v3.3-arm64
 - kuopsquay/calico.dikastes:v3.3.0-2-g0307dc6-arm64
