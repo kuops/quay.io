@@ -1,3 +1,17 @@
+- kuopsquay/calico.node-libnetwork:update-slack-url
+- kuopsquay/calico.node-libnetwork:v0.9.0-candidate
+- kuopsquay/calico.node-libnetwork:master
+- kuopsquay/calico.node:v3.2.3-2-g462ff94-ppc64le
+- kuopsquay/calico.node:v3.2.3-2-g462ff94
+- kuopsquay/calico.node:karthik-automated-libcalico-update-master-arm64
+- kuopsquay/calico.node:v3.4.0-0.dev-25-g17db8bd-arm64
+- kuopsquay/calico.node:karthik-automated-libcalico-update-master-ppc64le
+- kuopsquay/calico.node:karthik-automated-libcalico-update-master-amd64
+- kuopsquay/calico.node:v3.4.0-0.dev-25-g17db8bd-amd64
+- kuopsquay/calico.node:release-v3.3-arm64
+- kuopsquay/calico.node:release-v3.3-ppc64le
+- kuopsquay/calico.node:release-v3.3-amd64
+- kuopsquay/calico.node:release-v3.3
 - kuopsquay/calico.node:v3.3.0-2-g441d7c2-arm64
 - kuopsquay/calico.node:v3.3.0-2-g441d7c2-ppc64le
 - kuopsquay/calico.node:v3.3.0-2-g441d7c2-amd64
