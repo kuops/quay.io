@@ -1,3 +1,13 @@
+- kuopsquay/calico.ctl:v3.3.0-1-g2c777e0d-arm64
+- kuopsquay/calico.ctl:karthik-automated-libcalico-update-release-v3.3-ppc64le
+- kuopsquay/calico.ctl:v3.3.0-1-g2c777e0d
+- kuopsquay/calico.ctl:karthik-automated-libcalico-update-release-v3.3
+- kuopsquay/calico.ctl:v3.3.0-1-g2c777e0d-amd64
+- kuopsquay/calico.ctl:master-arm64
+- kuopsquay/calico.ctl:v3.4.0-0.dev-7-gc76815a1-arm64
+- kuopsquay/calico.ctl:release-v3.2-amd64
+- kuopsquay/calico.ctl:release-v3.2
+- kuopsquay/calico.ctl:release-v3.2-ppc64le
 - kuopsquay/calico.ctl:v3.4.0-0.dev-7-gc76815a1-ppc64le
 - kuopsquay/calico.ctl:v3.4.0-0.dev-7-gc76815a1
 - kuopsquay/calico.ctl:release-v3.1-amd64
