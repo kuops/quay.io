@@ -1,3 +1,7 @@
+- kuopsquay/calico.node:master-ppc64le
+- kuopsquay/calico.node:v3.4.0-0.dev-28-g909229b-arm64
+- kuopsquay/calico.libnetwork-plugin:v1.1.0-2-gf70e512
+- kuopsquay/calico.libnetwork-plugin:v1.1.0
 - kuopsquay/calico.libnetwork-plugin:v1.1.0-12-gf9ddb9a
 - kuopsquay/calico.libnetwork-plugin:v1.1.0-18-g500fbdd
 - kuopsquay/calico.libnetwork-plugin:v1.1.0-6-g6dd6c08
