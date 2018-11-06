@@ -1,3 +1,11 @@
+- kuopsquay/calico.libnetwork-plugin:v1.1.2
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-rc1-0-g12419e6
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-0-g12419e6
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-6-gab49a81
+- kuopsquay/calico.libnetwork-plugin:tom-automated-gobuild-update
+- kuopsquay/calico.libnetwork-plugin:release-v2.6
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-19-ge9d4f6c
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-19-ge9d4f6c
 - kuopsquay/calico.leader-elector:v0.1.0
 - kuopsquay/calico.libnetwork-plugin:v1.1.2-19-ge9d4f6c
 - kuopsquay/calico.libnetwork-plugin:master
