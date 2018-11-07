@@ -1,3 +1,13 @@
+- kuopsquay/calico.cni:v3.2.3-6-gf25a004-arm64
+- kuopsquay/calico.cni:release-v3.2-arm64
+- kuopsquay/calico.cni:v3.3.0-6-g64e6e51-amd64
+- kuopsquay/calico.cni:v3.3.0-6-g64e6e51
+- kuopsquay/calico.cni:release-v3.3-arm64
+- kuopsquay/calico.cni:release-v3.3-ppc64le
+- kuopsquay/calico.cni:v3.2.3-6-gf25a004-ppc64le
+- kuopsquay/calico.cni:release-v3.2-amd64
+- kuopsquay/calico.cni:release-v3.2
+- kuopsquay/calico.cni:v3.2.3-6-gf25a004-amd64
 - kuopsquay/calico.build:contributing-doc
 - kuopsquay/calico.build:validate-port-spec
 - kuopsquay/calico.build:update-slack-url
