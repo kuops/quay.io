@@ -1,3 +1,15 @@
+- kuopsquay/calico.dikastes:v3.4.0-0.dev-14-g315d330-arm64
+- kuopsquay/calico.dikastes:v3.4.0-0.dev-14-g315d330-ppc64le
+- kuopsquay/calico.dikastes:v3.4.0-0.dev-14-g315d330
+- kuopsquay/calico.dikastes:release-v3.2-arm64
+- kuopsquay/calico.dikastes:v3.2.3-4-gbd897ed-arm64
+- kuopsquay/calico.dikastes:release-v3.3-arm64
+- kuopsquay/calico.dikastes:v3.2.3-4-gbd897ed-amd64
+- kuopsquay/calico.dikastes:v3.3.0-4-g9ba0eeb
+- kuopsquay/calico.dikastes:v3.2.3-4-gbd897ed
+- kuopsquay/calico.dikastes:release-v3.2-amd64
+- kuopsquay/calico.dikastes:v3.2.3-4-gbd897ed-ppc64le
+- kuopsquay/calico.dikastes:release-v3.3
 - kuopsquay/calico.ctl:v3.4.0-0.dev-12-g37053c63-ppc64le
 - kuopsquay/calico.ctl:v3.4.0-0.dev-12-g37053c63
 - kuopsquay/calico.ctl:v3.2.3-3-g0ab492da-amd64
