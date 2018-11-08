@@ -1,3 +1,9 @@
+- kuopsquay/calico.confd:release-v2.6
+- kuopsquay/calico.confd:v0.12.1-calico-0.4.4-6-gd8933cd
+- kuopsquay/calico.confd:v1.0.6-9-gda5943c
+- kuopsquay/calico.confd:v1.0.6-9-gda5943c-amd64
+- kuopsquay/calico.confd:v3.1.3-9-g39280d8
+- kuopsquay/calico.confd:release-v3.1
 - kuopsquay/calico.cni:v3.4.0-0.dev-32-gbbcd9cc
 - kuopsquay/calico.cni:karthik-automated-libcalico-update-release-v3.2-ppc64le
 - kuopsquay/calico.cni:v3.4.0-0.dev-32-gbbcd9cc-ppc64le
