@@ -1,3 +1,15 @@
+- kuopsquay/calico.cni:v3.4.0-0.dev-32-gbbcd9cc
+- kuopsquay/calico.cni:karthik-automated-libcalico-update-release-v3.2-ppc64le
+- kuopsquay/calico.cni:v3.4.0-0.dev-32-gbbcd9cc-ppc64le
+- kuopsquay/calico.cni:v3.2.3-9-g42feee3-ppc64le
+- kuopsquay/calico.cni:karthik-automated-libcalico-update-release-v3.2-arm64
+- kuopsquay/calico.cni:v3.2.3-9-g42feee3-arm64
+- kuopsquay/calico.cni:karthik-automated-libcalico-update-release-v3.2
+- kuopsquay/calico.cni:karthik-automated-libcalico-update-release-v3.3-arm64
+- kuopsquay/calico.cni:v3.3.0-9-gd1e9d98-arm64
+- kuopsquay/calico.cni:v3.3.0-9-gd1e9d98
+- kuopsquay/calico.cni:v3.3.0-9-gd1e9d98-ppc64le
+- kuopsquay/calico.cni:release-v3.2-amd64
 - kuopsquay/calico.cni:v3.2.3-10-g1829c12-arm64
 - kuopsquay/calico.cni:release-v3.2-arm64
 - kuopsquay/calico.cni:v3.2.3-10-g1829c12-arm64
