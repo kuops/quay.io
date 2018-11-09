@@ -1,3 +1,11 @@
+- kuopsquay/calico.confd:v1.0.0-68-g45d401a
+- kuopsquay/calico.confd:v1.0.0-68-g45d401a-amd64
+- kuopsquay/calico.confd:release-v3.0
+- kuopsquay/calico.confd:v1.0.6-9-gda5943c
+- kuopsquay/calico.confd:release-v3.0-amd64
+- kuopsquay/calico.confd:release-v3.1-amd64
+- kuopsquay/calico.confd:release-v3.1-amd64
+- kuopsquay/calico.confd:release-v3.1
 - kuopsquay/calico.confd:karthik-automated-libcalico-update-release-v3.0
 - kuopsquay/calico.confd:v1.0.6-10-g702cd77
 - kuopsquay/calico.confd:karthik-automated-libcalico-update-release-v3.0-amd64
