@@ -1,3 +1,4 @@
+- kuopsquay/calico.node:release-v3.1
 - kuopsquay/calico.node:v3.0.9
 - kuopsquay/calico.node:v3.2.4-0-g6255c14-arm64
 - kuopsquay/calico.node:v3.2.4-0-g6255c14-ppc64le
