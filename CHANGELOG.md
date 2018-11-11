@@ -1,3 +1,16 @@
+- kuopsquay/calico.kube-policy-controller:v0.7.0-2-gb4b778e
+- kuopsquay/calico.kube-policy-controller:golang
+- kuopsquay/calico.kube-policy-controller:v0.7.0-26-gc87179b
+- kuopsquay/calico.kube-policy-controller:v0.7.0-28-gd5a9819
+- kuopsquay/calico.kube-policy-controller:v0.7.0-30-ge2ec8b9
+- kuopsquay/calico.kube-policy-controller:v0.7.0-32-g115c72f
+- kuopsquay/calico.kube-policy-controller:v0.7.0-44-g8c866b6
+- kuopsquay/calico.kube-policy-controller:revert-144-fv-tests-more
+- kuopsquay/calico.kube-policy-controller:v0.7.0-46-g517d3ea
+- kuopsquay/calico.kube-policy-controller:egress-cidr-patch
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc1-4-g11e89e1
+- kuopsquay/calico.kube-policy-controller:v0.7.0-56-gf459e5a
+- kuopsquay/calico.kube-policy-controller:v1.0.0-rc1
 - kuopsquay/calico.kube-policy-controller:v1.0.0-rc2-2-g427cdd3
 - kuopsquay/calico.kube-policy-controller:v1.0.0-rc2
 - kuopsquay/calico.kube-policy-controller:v1.0.0-rc2-7-g7a02f0b
