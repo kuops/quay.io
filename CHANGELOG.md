@@ -1,3 +1,10 @@
+- kuopsquay/calico.go-build:v0.18
+- kuopsquay/calico.go-build:v0.19
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
