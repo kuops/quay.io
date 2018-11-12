@@ -1,3 +1,9 @@
+- kuopsquay/calico.istio-ca:be3a23a5
+- kuopsquay/calico.istio-ca:20180109224419
+- kuopsquay/calico.istio-ca:20180117233037
+- kuopsquay/calico.istio-pilot:438ee501
+- kuopsquay/calico.istio-pilot:be3a23a5
+- kuopsquay/calico.istio-pilot:20180117232326
 - kuopsquay/calico.hyperkube:v1.2.3_coreos.1-cni
 - kuopsquay/calico.htmlproofer:v0.0
 - kuopsquay/calico.htmlproofer:latest
