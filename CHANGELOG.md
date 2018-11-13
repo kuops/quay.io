@@ -1,3 +1,17 @@
+- kuopsquay/calico.ctl:v3.4.0-0.dev-17-g4930615a-ppc64le
+- kuopsquay/calico.ctl:v3.4.0-0.dev-18-gdc122374-arm64
+- kuopsquay/calico.ctl:neil-automated-gobuild-update-master-arm64
+- kuopsquay/calico.ctl:v3.4.0-0.dev-17-g4930615a
+- kuopsquay/calico.ctl:neil-automated-gobuild-update-master-ppc64le
+- kuopsquay/calico.ctl:neil-automated-gobuild-update-master
+- kuopsquay/calico.ctl:neil-automated-gobuild-update-master-amd64
+- kuopsquay/calico.confd:master
+- kuopsquay/calico.confd:release-v3.0
+- kuopsquay/calico.confd:v1.0.0-68-g45d401a
+- kuopsquay/calico.confd:release-v3.0-amd64
+- kuopsquay/calico.confd:release-v3.1-amd64
+- kuopsquay/calico.confd:v3.1.3-9-g39280d8-amd64
+- kuopsquay/calico.confd:v1.0.6-9-gda5943c
 - kuopsquay/calico.confd:release-v3.1
 - kuopsquay/calico.confd:v3.1.3-9-g39280d8
 - kuopsquay/calico.confd:v3.1.3-9-g39280d8-amd64
