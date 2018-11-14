@@ -1,3 +1,10 @@
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:feature-ipinip-amd64
+- kuopsquay/calico.bird:feature-ipinip-arm64
+- kuopsquay/calico.bird:feature-ipinip-ppc64le
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-s390x
+- kuopsquay/calico.bird:v0.3.2-17-g4f473b3f-ppc64le
 - kuopsquay/calico.node-libnetwork:update-slack-url
 - kuopsquay/calico.node-libnetwork:v0.9.0
 - kuopsquay/calico.pilot-webhook:20180315234611
