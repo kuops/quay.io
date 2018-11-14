@@ -1,3 +1,13 @@
+- kuopsquay/calico.routereflector:v0.2.2-alpha2
+- kuopsquay/calico.routereflector:feature-ipinip
+- kuopsquay/calico.routereflector:v0.3.1
+- kuopsquay/calico.routereflector:v0.3.1-branch
+- kuopsquay/calico.routereflector:rr-v0.4.1
+- kuopsquay/calico.routereflector:v0.4.1
+- kuopsquay/calico.routereflector:v0.4.2
+- kuopsquay/calico.routereflector:rr-v0.4.2
+- kuopsquay/calico.routereflector:rr-v0.4.x-series
+- kuopsquay/calico.routereflector:v0.6.0
 - kuopsquay/calico.routereflector:v0.5.1
 - kuopsquay/calico.routereflector:v0.5.1
 - kuopsquay/calico.routereflector:v0.6.2
