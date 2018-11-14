@@ -1,4 +1,16 @@
 - kuopsquay/calico.cni:v3.4.0-0.dev-40-g4ceb17f-arm64
+- kuopsquay/calico.cni:master-amd64
+- kuopsquay/calico.cni:v3.4.0-0.dev-40-g4ceb17f-ppc64le
+- kuopsquay/calico.cni:v3.4.0-0.dev-39-gb00e126
+- kuopsquay/calico.cni:v3.4.0-0.dev-39-gb00e126-ppc64le
+- kuopsquay/calico.cni:release-v3.2-arm64
+- kuopsquay/calico.cni:v3.2.4-0-g009fe51-arm64
+- kuopsquay/calico.cni:release-v3.3-arm64
+- kuopsquay/calico.cni:v3.2.4-0-g009fe51-ppc64le
+- kuopsquay/calico.cni:release-v3.2
+- kuopsquay/calico.cni:v3.2.4-0-g009fe51-amd64
+- kuopsquay/calico.cni:release-v3.3-amd64
+- kuopsquay/calico.cni:v3.4.0-0.dev-40-g4ceb17f-arm64
 - kuopsquay/calico.cni:master-arm64
 - kuopsquay/calico.cni:release-v3.2-arm64
 - kuopsquay/calico.cni:v3.2.4-0-g009fe51-arm64
