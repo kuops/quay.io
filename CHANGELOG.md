@@ -1,3 +1,17 @@
+- kuopsquay/calico.kube-controllers:v3.4.0-0.dev-19-gbcfaf3d-arm64
+- kuopsquay/calico.kube-controllers:v3.4.0-0.dev-19-gbcfaf3d-ppc64le
+- kuopsquay/calico.kube-controllers:v3.4.0-0.dev-19-gbcfaf3d
+- kuopsquay/calico.kube-controllers:release-v3.2-arm64
+- kuopsquay/calico.kube-controllers:v3.2.4-0-ge83f68b-arm64
+- kuopsquay/calico.kube-controllers:release-v3.2-ppc64le
+- kuopsquay/calico.kube-controllers:v3.2.4-0-ge83f68b-ppc64le
+- kuopsquay/calico.kube-controllers:v3.2.4-0-ge83f68b
+- kuopsquay/calico.kube-controllers:release-v3.2
+- kuopsquay/calico.kube-controllers:v3.2.4-0-ge83f68b-amd64
+- kuopsquay/calico.kube-controllers:release-v3.3-arm64
+- kuopsquay/calico.kube-controllers:v3.3.1-0-g8c61ae9-ppc64le
+- kuopsquay/calico.kube-controllers:release-v3.3-ppc64le
+- kuopsquay/calico.kube-controllers:release-v3.3-amd64
 - kuopsquay/calico.kube-controllers:v3.3.1-0-g8c61ae9
 - kuopsquay/calico.k8s-policy-agent:v0.1.0-rebuild
 - kuopsquay/calico.k8s-policy-agent:v0.1.1-rebuild
