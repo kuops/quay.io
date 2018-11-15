@@ -203,6 +203,7 @@ coreos/presto
 coreos/prom-label-proxy
 coreos/hadoop
 coreos/hive
+coreos/kube-state-metrics-dev
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
