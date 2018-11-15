@@ -1,3 +1,9 @@
+- kuopsquay/calico.go-build:v0.9
+- kuopsquay/calico.go-build:v0.8
+- kuopsquay/calico.go-build:go-1.9
+- kuopsquay/calico.gobgpd:v0.2.2-35-g8ea1e24-amd64
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.go-build:latest
 - kuopsquay/calico.go-build:v0.12-amd64
 - kuopsquay/calico.go-build:v0.12
 - kuopsquay/calico.go-build:v0.16
