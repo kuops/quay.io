@@ -1,3 +1,17 @@
+- kuopsquay/calico.node-libnetwork:contributing-doc
+- kuopsquay/calico.node-libnetwork:v0.8.0
+- kuopsquay/calico.node-libnetwork:update-slack-url
+- kuopsquay/calico.pilot-webhook:eb9c71b
+- kuopsquay/calico.pilot-webhook:20180315234611
+- kuopsquay/calico.pilot-webhook:867aac6
+- kuopsquay/calico.pilot-webhook:5d31d46
+- kuopsquay/calico.pilot-webhook:20180319190400
+- kuopsquay/calico.pilot-webhook:20180319212819
+- kuopsquay/calico.pilot-webhook:20180319220721
+- kuopsquay/calico.pilot-webhook:bd069d7
+- kuopsquay/calico.node-libnetwork:v0.10.0
+- kuopsquay/calico.node-libnetwork:latest
+- kuopsquay/calico.node-libnetwork:master
 - kuopsquay/calico.node:release-v3.2-arm64
 - kuopsquay/calico.node:v3.2.4-0-g6255c14-ppc64le
 - kuopsquay/calico.node:release-v3.2-ppc64le
