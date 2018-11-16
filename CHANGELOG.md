@@ -1,3 +1,8 @@
+- kuopsquay/calico.typha:release-v3.2-ppc64le
+- kuopsquay/calico.typha:v3.2.4-2-g60c03e1
+- kuopsquay/calico.typha:v3.3.1-0-g0f64237-amd64
+- kuopsquay/calico.typha:master-arm64
+- kuopsquay/calico.typha:master-ppc64le
 - kuopsquay/calico.typha:v3.4.0-0.dev-20-gfc027e5-arm64
 - kuopsquay/calico.typha:v3.4.0-0.dev-20-gfc027e5-ppc64le
 - kuopsquay/calico.typha:v3.4.0-0.dev-20-gfc027e5
