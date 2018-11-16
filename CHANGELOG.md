@@ -1,3 +1,16 @@
+- kuopsquay/calico.cni:v3.4.0-0.dev-40-g4ceb17f-arm64
+- kuopsquay/calico.cni:master-arm64
+- kuopsquay/calico.cni:master-ppc64le
+- kuopsquay/calico.cni:v3.4.0-0.dev-40-g4ceb17f
+- kuopsquay/calico.cni:v3.4.0-0.dev-40-g4ceb17f-amd64
+- kuopsquay/calico.cni:release-v3.3-ppc64le
+- kuopsquay/calico.cni:v3.3.1-0-g2e6c8d1-arm64
+- kuopsquay/calico.cni:v3.3.1-0-g2e6c8d1-ppc64le
+- kuopsquay/calico.cni:v3.3.1-0-g2e6c8d1-amd64
+- kuopsquay/calico.cni:v3.3.1-0-g2e6c8d1
+- kuopsquay/calico.cni:release-v3.2-ppc64le
+- kuopsquay/calico.cni:v3.2.4-0-g009fe51-amd64
+- kuopsquay/calico.cni:release-v3.2
 - kuopsquay/calico.build:v0.12.0
 - kuopsquay/calico.build:v0.13.0
 - kuopsquay/calico.build:validate-port-spec
