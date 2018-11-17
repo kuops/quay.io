@@ -1,3 +1,16 @@
+- kuopsquay/calico.typha:v3.4.0-0.dev-20-gfc027e5-arm64
+- kuopsquay/calico.typha:v3.4.0-0.dev-20-gfc027e5
+- kuopsquay/calico.typha:master
+- kuopsquay/calico.typha:v3.4.0-0.dev-20-gfc027e5-amd64
+- kuopsquay/calico.typha:v3.2.4-2-g60c03e1-arm64
+- kuopsquay/calico.typha:v3.2.4-2-g60c03e1-ppc64le
+- kuopsquay/calico.typha:release-v3.2-ppc64le
+- kuopsquay/calico.typha:v3.2.4-2-g60c03e1
+- kuopsquay/calico.typha:release-v3.2-amd64
+- kuopsquay/calico.typha:release-v3.3
+- kuopsquay/calico.typha:v3.3.1-0-g0f64237-arm64
+- kuopsquay/calico.typha:release-v3.3-ppc64le
+- kuopsquay/calico.typha:v3.3.1-0-g0f64237-ppc64le
 - kuopsquay/calico.routereflector:v0.5.0
 - kuopsquay/calico.routereflector:feature-ipinip
 - kuopsquay/calico.routereflector:v0.2.2-alpha2
