@@ -1,3 +1,17 @@
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-arm64
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.4-0-ge0705f7-dirty-arm64
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-ppc64le
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2-amd64
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.4-0-ge0705f7-dirty-ppc64le
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.4-0-ge0705f7-dirty-amd64
+- kuopsquay/calico.pod2daemon-flexvol:release-v3.2
+- kuopsquay/calico.pod2daemon-flexvol:v3.2.4-0-ge0705f7-dirty
+- kuopsquay/calico.pod2daemon-flexvol:master-arm64
+- kuopsquay/calico.pod2daemon-flexvol:master-ppc64le
+- kuopsquay/calico.pod2daemon-flexvol:v3.4.0-0.dev-0-ga5be4d6-ppc64le
+- kuopsquay/calico.pod2daemon-flexvol:v3.4.0-0.dev-0-ga5be4d6
+- kuopsquay/calico.pilot-webhook:20180222202805
+- kuopsquay/calico.pilot-webhook:20180222221034
 - kuopsquay/calico.node-libnetwork:v0.8.0
 - kuopsquay/calico.node-libnetwork:contributing-doc
 - kuopsquay/calico.pilot-webhook:eb9c71b
