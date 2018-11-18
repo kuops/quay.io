@@ -1,3 +1,16 @@
+- kuopsquay/calico.upgrade:v0.1.2-2-g599f667
+- kuopsquay/calico.upgrade:v1.0.0
+- kuopsquay/calico.upgrade:v0.1.3-6-g09f1bf8
+- kuopsquay/calico.upgrade:v1.0.1
+- kuopsquay/calico.upgrade:v0.1.3-8-g546cc57
+- kuopsquay/calico.upgrade:v0.1.3-12-g5bfec9e
+- kuopsquay/calico.upgrade:v1.0.1-2-g7425ff6
+- kuopsquay/calico.upgrade:v1.0.2
+- kuopsquay/calico.upgrade:v1.0.1-8-g7065a22
+- kuopsquay/calico.upgrade:tom-automated-gobuild-update
+- kuopsquay/calico.upgrade:v1.0.2-4-ge85580b
+- kuopsquay/calico.upgrade:v1.0.2-7-g319001e
+- kuopsquay/calico.upgrade:v1.0.3
 - kuopsquay/calico.upgrade:v1.0.4
 - kuopsquay/calico.upgrade:v1.0.5-2-g7c7d069
 - kuopsquay/calico.upgrade:v1.0.3-4-g2f990b5
