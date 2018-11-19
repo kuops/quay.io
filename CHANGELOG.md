@@ -1,3 +1,17 @@
+- kuopsquay/calico.kube-controllers:v3.3.1-0-g8c61ae9
+- kuopsquay/calico.k8s-policy-agent:v0.1.0-rebuild
+- kuopsquay/calico.k8s-policy-agent:v0.1.1-rebuild
+- kuopsquay/calico.k8s-policy-agent:v0.1.2
+- kuopsquay/calico.k8s-policy-agent:release-v0.1.0
+- kuopsquay/calico.k8s-policy-agent:v0.1.1
+- kuopsquay/calico.k8s-policy-agent:hosts-fix
+- kuopsquay/calico.k8s-policy-agent:v0.1.3
+- kuopsquay/calico.k8s-policy-agent:v0.1.4-candidate
+- kuopsquay/calico.k8s-policy-agent:v0.1.4
+- kuopsquay/calico.k8s-policy-agent:v1beta-api
+- kuopsquay/calico.istio-sidecar_initializer:20171130221407
+- kuopsquay/calico.istio-sidecar_initializer:794087ca
+- kuopsquay/calico.istio-sidecar_initializer:20171130234734
 - kuopsquay/calico.istio-proxy_init:20180117232326
 - kuopsquay/calico.istio-proxy_init:20171130234734
 - kuopsquay/calico.istio-proxy_init:794087ca
