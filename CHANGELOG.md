@@ -1,5 +1,8 @@
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
+- kuopsquay/calico.gobgpd:master
+- kuopsquay/calico.go-build:master
+- kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
 - kuopsquay/calico.go-build:master
