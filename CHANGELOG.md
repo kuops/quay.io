@@ -1,3 +1,10 @@
+- kuopsquay/calico.bird:v0.3.3-0-g1e8dd375-ppc64le
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:feature-ipinip-ppc64le
+- kuopsquay/calico.bird:v0.3.3-0-g1e8dd375
+- kuopsquay/calico.bird:v0.3.3-0-g1e8dd375-arm64
+- kuopsquay/calico.bird:feature-ipinip-arm64
+- kuopsquay/calico.bird:v0.3.3-0-g1e8dd375-s390x
 - kuopsquay/coreos.flannel:v0.7.0-ppc64le
 - kuopsquay/coreos.flannel:v0.7.1-arm64
 - kuopsquay/coreos.flannel:v0.7.1-arm

@@ -30,6 +30,9 @@ calico/pod2daemon-flexvol
 calico/routereflector
 calico/typha
 calico/upgrade
+calico/yaobank-customer
+calico/yaobank-database
+calico/yaobank-summary
 coreos/flannelbox
 coreos/flannel
 coreos/etcd
@@ -204,9 +207,16 @@ coreos/prom-label-proxy
 coreos/hadoop
 coreos/hive
 coreos/kube-state-metrics-dev
+coreos/superset
+coreos/caddy-revproxy
+coreos/mock-extension-apiserver
+coreos/grpc-health-probe
 prometheus/alertmanager
 prometheus/blackbox-exporter
 prometheus/busybox
+prometheus/busybox-arm32v7-linux
+prometheus/busybox-arm64v8-linux
+prometheus/busybox-ppc64le-linux
 prometheus/collectd-exporter
 prometheus/consul-exporter
 prometheus/golang-builder
