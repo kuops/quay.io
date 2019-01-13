@@ -1,3 +1,17 @@
+- kuopsquay/calico.build:feature_utreports
+- kuopsquay/calico.build:v0.18.0
+- kuopsquay/calico.build:develop
+- kuopsquay/calico.build:v0.17.0
+- kuopsquay/calico.build:lr2-add-fvs
+- kuopsquay/calico.build:cd-update-readme
+- kuopsquay/calico.build:master
+- kuopsquay/calico.build:latest
+- kuopsquay/calico.build:fix-host-config
+- kuopsquay/calico.build:v0.19.0
+- kuopsquay/calico.bird:v0.3.3-0-g1e8dd375
+- kuopsquay/calico.bird:feature-ipinip
+- kuopsquay/calico.bird:v0.3.3-0-g1e8dd375-amd64
+- kuopsquay/calico.bird:v0.3.3-0-g1e8dd375-ppc64le
 - kuopsquay/calico.bird:feature-ipinip-amd64
 - kuopsquay/calico.bird:feature-ipinip
 - kuopsquay/calico.bird:feature-ipinip-s390x
