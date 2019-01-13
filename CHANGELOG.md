@@ -1,3 +1,13 @@
+- kuopsquay/calico.kube-controllers:v3.6.0-0.dev-2-g988b122-arm64
+- kuopsquay/calico.kube-controllers:v3.6.0-0.dev-2-g988b122-amd64
+- kuopsquay/calico.kube-controllers:v3.6.0-0.dev-2-g988b122
+- kuopsquay/calico.kube-controllers:v3.6.0-0.dev-2-g988b122-ppc64le
+- kuopsquay/calico.kube-controllers:v3.6.0-0.dev-3-g36a99a0-ppc64le
+- kuopsquay/calico.kube-controllers:master-ppc64le
+- kuopsquay/calico.kube-controllers:v3.6.0-0.dev-3-g36a99a0-arm64
+- kuopsquay/calico.kube-controllers:master
+- kuopsquay/calico.kube-controllers:v3.6.0-0.dev-3-g36a99a0-amd64
+- kuopsquay/calico.kube-controllers:master
 - kuopsquay/calico.kube-controllers:v3.6.0-0.dev-3-g36a99a0
 - kuopsquay/calico.k8s-policy-agent:v0.1.0-rebuild
 - kuopsquay/calico.k8s-policy-agent:v0.1.1-rebuild
