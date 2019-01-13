@@ -1,3 +1,15 @@
+- kuopsquay/calico.dikastes:lwr-kick-semaphore-arm64
+- kuopsquay/calico.dikastes:v3.6.0-0.dev-2-gc21c0c0-arm64
+- kuopsquay/calico.dikastes:v3.6.0-0.dev-2-gc21c0c0-ppc64le
+- kuopsquay/calico.dikastes:lwr-kick-semaphore-ppc64le
+- kuopsquay/calico.dikastes:v3.6.0-0.dev-2-gc21c0c0-amd64
+- kuopsquay/calico.dikastes:lwr-kick-semaphore-amd64
+- kuopsquay/calico.dikastes:v3.6.0-0.dev-2-gc21c0c0
+- kuopsquay/calico.dikastes:master-amd64
+- kuopsquay/calico.dikastes:master-ppc64le
+- kuopsquay/calico.dikastes:master
+- kuopsquay/calico.dikastes:v3.6.0-0.dev-3-g5e49347-ppc64le
+- kuopsquay/calico.dikastes:master-ppc64le
 - kuopsquay/calico.dikastes:v3.6.0-0.dev-3-g5e49347-ppc64le
 - kuopsquay/calico.dikastes:v3.6.0-0.dev-3-g5e49347-amd64
 - kuopsquay/calico.dikastes:v3.6.0-0.dev-3-g5e49347-arm64
