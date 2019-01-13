@@ -1,3 +1,13 @@
+- kuopsquay/calico.node:v3.6.0-0.dev-6-g5bcf76b-ppc64le
+- kuopsquay/calico.node:v3.6.0-0.dev-6-g5bcf76b
+- kuopsquay/calico.node:release-v3.4-arm64
+- kuopsquay/calico.node:release-v3.4-ppc64le
+- kuopsquay/calico.node:v3.4.0-4-gefb8be8-ppc64le
+- kuopsquay/calico.node:release-v3.4
+- kuopsquay/calico.node:release-v3.4-amd64
+- kuopsquay/calico.node:v3.4.0-4-gefb8be8-amd64
+- kuopsquay/calico.libnetwork-plugin:master
+- kuopsquay/calico.libnetwork-plugin:v1.1.2-19-ge9d4f6c
 - kuopsquay/calico.libnetwork-plugin:master
 - kuopsquay/calico.libnetwork-plugin:master
 - kuopsquay/calico.libnetwork-plugin:v1.1.2-19-ge9d4f6c
