@@ -1,3 +1,16 @@
+- kuopsquay/calico.yaobank-summary:latest
+- kuopsquay/calico.yaobank-summary:v0.1
+- kuopsquay/calico.yaobank-customer:latest
+- kuopsquay/coreos.flannel:v0.10.0-arm64
+- kuopsquay/calico.yaobank-database:v0.1
+- kuopsquay/coreos.flannel:v0.10.0-s390x
+- kuopsquay/coreos.flannelbox:1.0
+- kuopsquay/calico.upgrade:v0.1.1
+- kuopsquay/calico.upgrade:v0.1.0
+- kuopsquay/calico.upgrade:v0.1.0-6-ge016146
+- kuopsquay/calico.upgrade:v0.1.1-6-gd1525ce
+- kuopsquay/calico.upgrade:v0.1.1-4-gad347ac
+- kuopsquay/calico.upgrade:v0.1.2
 - kuopsquay/calico.upgrade:v0.1.2-2-g599f667
 - kuopsquay/calico.upgrade:v0.1.3-3-g6e26c61
 - kuopsquay/calico.upgrade:v1.0.0
