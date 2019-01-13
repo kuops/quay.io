@@ -1,3 +1,4 @@
+- kuopsquay/coreos.flannel-git:v0.10.0-69-g39af3d7-amd64
 - kuopsquay/coreos.etcd-git:master
 - kuopsquay/coreos.etcd-git:229
 - kuopsquay/coreos.etcd:v3.2.21-ppc64le
