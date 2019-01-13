@@ -1,6 +1,6 @@
 #!/bin/bash
 
-QUAY_NAMESPACE=(calico coreos prometheus)
+QUAY_NAMESPACE=(coreos prometheus)
 DOCKERHUB_NAMESPACE=kuopsquay
 QUAY_REPO_PRE="quay.io"
 REPO_API_URL="https://quay.io/api/v1/repository?public=true&namespace="
