@@ -1,3 +1,16 @@
+- kuopsquay/calico.typha:v3.6.0-0.dev-1-ge156f86
+- kuopsquay/calico.typha:v3.4.0-0-g3afde19-amd64
+- kuopsquay/calico.typha:release-v3.4-amd64
+- kuopsquay/calico.typha:v3.4.0-0-g3afde19
+- kuopsquay/calico.typha:release-v3.4-arm64
+- kuopsquay/calico.typha:v3.4.0-0-g3afde19-arm64
+- kuopsquay/calico.typha:v3.6.0-0.dev-2-g7e22f6d-arm64
+- kuopsquay/calico.typha:master-arm64
+- kuopsquay/calico.typha:master-ppc64le
+- kuopsquay/calico.typha:v3.6.0-0.dev-2-g7e22f6d-amd64
+- kuopsquay/calico.typha:release-v3.2-amd64
+- kuopsquay/calico.typha:release-v3.2-arm64
+- kuopsquay/calico.typha:release-v3.2-ppc64le
 - kuopsquay/calico.typha:v3.2.4-2-g60c03e1-ppc64le
 - kuopsquay/calico.typha:v3.2.4-2-g60c03e1-arm64
 - kuopsquay/calico.typha:v3.2.4-2-g60c03e1
